@@ -67,6 +67,13 @@ task cleanBuildDeploy(type: GradleBuild) {
     tasks = ['clean', 'build', 'deploy']
 }
 
+task printMetadata() {
+    doLast {
+        println "filename=$jarFile"
+        println "version=${plugin["api-version"]}"
+    }
+}
+
 processResources {
     def props = [version: version]
     inputs.properties props
