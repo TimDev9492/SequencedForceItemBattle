@@ -1,0 +1,5568 @@
+[
+  {
+    "group": "ACACIA_WOOD",
+    "description": "All blocks and items related to Acacia wood.",
+    "values": [
+      {
+        "material": "ACACIA_BOAT",
+        "difficulty": 1
+      },
+      {
+        "material": "ACACIA_CHEST_BOAT",
+        "difficulty": 1
+      },
+      {
+        "material": "ACACIA_BUTTON",
+        "difficulty": 1
+      },
+      {
+        "material": "ACACIA_DOOR",
+        "difficulty": 1
+      },
+      {
+        "material": "ACACIA_FENCE",
+        "difficulty": 1
+      },
+      {
+        "material": "ACACIA_FENCE_GATE",
+        "difficulty": 1
+      },
+      {
+        "material": "ACACIA_HANGING_SIGN",
+        "difficulty": 2
+      },
+      {
+        "material": "ACACIA_LEAVES",
+        "difficulty": 2
+      },
+      {
+        "material": "ACACIA_LOG",
+        "difficulty": 1
+      },
+      {
+        "material": "ACACIA_PLANKS",
+        "difficulty": 1
+      },
+      {
+        "material": "ACACIA_PRESSURE_PLATE",
+        "difficulty": 1
+      },
+      {
+        "material": "ACACIA_SAPLING",
+        "difficulty": 1
+      },
+      {
+        "material": "ACACIA_SIGN",
+        "difficulty": 1
+      },
+      {
+        "material": "ACACIA_SLAB",
+        "difficulty": 1
+      },
+      {
+        "material": "ACACIA_STAIRS",
+        "difficulty": 1
+      },
+      {
+        "material": "ACACIA_TRAPDOOR",
+        "difficulty": 1
+      },
+      {
+        "material": "ACACIA_WOOD",
+        "difficulty": 1
+      },
+      {
+        "material": "STRIPPED_ACACIA_LOG",
+        "difficulty": 1
+      },
+      {
+        "material": "STRIPPED_ACACIA_WOOD",
+        "difficulty": 1
+      }
+    ]
+  },
+  {
+    "group": "BIRCH_WOOD",
+    "description": "All blocks and items related to Birch wood.",
+    "values": [
+      {
+        "material": "BIRCH_BOAT",
+        "difficulty": 1
+      },
+      {
+        "material": "BIRCH_CHEST_BOAT",
+        "difficulty": 1
+      },
+      {
+        "material": "BIRCH_BUTTON",
+        "difficulty": 1
+      },
+      {
+        "material": "BIRCH_DOOR",
+        "difficulty": 1
+      },
+      {
+        "material": "BIRCH_FENCE",
+        "difficulty": 1
+      },
+      {
+        "material": "BIRCH_FENCE_GATE",
+        "difficulty": 1
+      },
+      {
+        "material": "BIRCH_HANGING_SIGN",
+        "difficulty": 2
+      },
+      {
+        "material": "BIRCH_LEAVES",
+        "difficulty": 2
+      },
+      {
+        "material": "BIRCH_LOG",
+        "difficulty": 1
+      },
+      {
+        "material": "BIRCH_PLANKS",
+        "difficulty": 1
+      },
+      {
+        "material": "BIRCH_PRESSURE_PLATE",
+        "difficulty": 1
+      },
+      {
+        "material": "BIRCH_SAPLING",
+        "difficulty": 1
+      },
+      {
+        "material": "BIRCH_SIGN",
+        "difficulty": 1
+      },
+      {
+        "material": "BIRCH_SLAB",
+        "difficulty": 1
+      },
+      {
+        "material": "BIRCH_STAIRS",
+        "difficulty": 1
+      },
+      {
+        "material": "BIRCH_TRAPDOOR",
+        "difficulty": 1
+      },
+      {
+        "material": "BIRCH_WOOD",
+        "difficulty": 1
+      },
+      {
+        "material": "STRIPPED_BIRCH_LOG",
+        "difficulty": 1
+      },
+      {
+        "material": "STRIPPED_BIRCH_WOOD",
+        "difficulty": 1
+      }
+    ]
+  },
+  {
+    "group": "OAK_WOOD",
+    "description": "All blocks and items related to Oak wood.",
+    "values": [
+      {
+        "material": "OAK_BOAT",
+        "difficulty": 1
+      },
+      {
+        "material": "OAK_CHEST_BOAT",
+        "difficulty": 1
+      },
+      {
+        "material": "OAK_BUTTON",
+        "difficulty": 1
+      },
+      {
+        "material": "OAK_DOOR",
+        "difficulty": 1
+      },
+      {
+        "material": "OAK_FENCE",
+        "difficulty": 1
+      },
+      {
+        "material": "OAK_FENCE_GATE",
+        "difficulty": 1
+      },
+      {
+        "material": "OAK_HANGING_SIGN",
+        "difficulty": 2
+      },
+      {
+        "material": "OAK_LEAVES",
+        "difficulty": 2
+      },
+      {
+        "material": "OAK_LOG",
+        "difficulty": 1
+      },
+      {
+        "material": "OAK_PLANKS",
+        "difficulty": 1
+      },
+      {
+        "material": "OAK_PRESSURE_PLATE",
+        "difficulty": 1
+      },
+      {
+        "material": "OAK_SAPLING",
+        "difficulty": 1
+      },
+      {
+        "material": "OAK_SIGN",
+        "difficulty": 1
+      },
+      {
+        "material": "OAK_SLAB",
+        "difficulty": 1
+      },
+      {
+        "material": "OAK_STAIRS",
+        "difficulty": 1
+      },
+      {
+        "material": "OAK_TRAPDOOR",
+        "difficulty": 1
+      },
+      {
+        "material": "OAK_WOOD",
+        "difficulty": 1
+      },
+      {
+        "material": "STRIPPED_OAK_LOG",
+        "difficulty": 1
+      },
+      {
+        "material": "STRIPPED_OAK_WOOD",
+        "difficulty": 1
+      }
+    ]
+  },
+  {
+    "group": "SPRUCE_WOOD",
+    "description": "All blocks and items related to Spruce wood.",
+    "values": [
+      {
+        "material": "SPRUCE_BOAT",
+        "difficulty": 1
+      },
+      {
+        "material": "SPRUCE_CHEST_BOAT",
+        "difficulty": 1
+      },
+      {
+        "material": "SPRUCE_BUTTON",
+        "difficulty": 1
+      },
+      {
+        "material": "SPRUCE_DOOR",
+        "difficulty": 1
+      },
+      {
+        "material": "SPRUCE_FENCE",
+        "difficulty": 1
+      },
+      {
+        "material": "SPRUCE_FENCE_GATE",
+        "difficulty": 1
+      },
+      {
+        "material": "SPRUCE_HANGING_SIGN",
+        "difficulty": 2
+      },
+      {
+        "material": "SPRUCE_LEAVES",
+        "difficulty": 2
+      },
+      {
+        "material": "SPRUCE_LOG",
+        "difficulty": 1
+      },
+      {
+        "material": "SPRUCE_PLANKS",
+        "difficulty": 1
+      },
+      {
+        "material": "SPRUCE_PRESSURE_PLATE",
+        "difficulty": 1
+      },
+      {
+        "material": "SPRUCE_SAPLING",
+        "difficulty": 1
+      },
+      {
+        "material": "SPRUCE_SIGN",
+        "difficulty": 1
+      },
+      {
+        "material": "SPRUCE_SLAB",
+        "difficulty": 1
+      },
+      {
+        "material": "SPRUCE_STAIRS",
+        "difficulty": 1
+      },
+      {
+        "material": "SPRUCE_TRAPDOOR",
+        "difficulty": 1
+      },
+      {
+        "material": "SPRUCE_WOOD",
+        "difficulty": 1
+      },
+      {
+        "material": "STRIPPED_SPRUCE_LOG",
+        "difficulty": 1
+      },
+      {
+        "material": "STRIPPED_SPRUCE_WOOD",
+        "difficulty": 1
+      }
+    ]
+  },
+  {
+    "group": "DARK_OAK_WOOD",
+    "description": "All blocks and items related to Dark Oak wood.",
+    "values": [
+      {
+        "material": "DARK_OAK_BOAT",
+        "difficulty": 1
+      },
+      {
+        "material": "DARK_OAK_CHEST_BOAT",
+        "difficulty": 1
+      },
+      {
+        "material": "DARK_OAK_BUTTON",
+        "difficulty": 1
+      },
+      {
+        "material": "DARK_OAK_DOOR",
+        "difficulty": 1
+      },
+      {
+        "material": "DARK_OAK_FENCE",
+        "difficulty": 1
+      },
+      {
+        "material": "DARK_OAK_FENCE_GATE",
+        "difficulty": 1
+      },
+      {
+        "material": "DARK_OAK_HANGING_SIGN",
+        "difficulty": 2
+      },
+      {
+        "material": "DARK_OAK_LEAVES",
+        "difficulty": 5
+      },
+      {
+        "material": "DARK_OAK_LOG",
+        "difficulty": 1
+      },
+      {
+        "material": "DARK_OAK_PLANKS",
+        "difficulty": 1
+      },
+      {
+        "material": "DARK_OAK_PRESSURE_PLATE",
+        "difficulty": 1
+      },
+      {
+        "material": "DARK_OAK_SAPLING",
+        "difficulty": 1
+      },
+      {
+        "material": "DARK_OAK_SIGN",
+        "difficulty": 1
+      },
+      {
+        "material": "DARK_OAK_SLAB",
+        "difficulty": 1
+      },
+      {
+        "material": "DARK_OAK_STAIRS",
+        "difficulty": 1
+      },
+      {
+        "material": "DARK_OAK_TRAPDOOR",
+        "difficulty": 1
+      },
+      {
+        "material": "DARK_OAK_WOOD",
+        "difficulty": 1
+      },
+      {
+        "material": "STRIPPED_DARK_OAK_LOG",
+        "difficulty": 1
+      },
+      {
+        "material": "STRIPPED_DARK_OAK_WOOD",
+        "difficulty": 1
+      }
+    ]
+  },
+  {
+    "group": "JUNGLE_WOOD",
+    "description": "All blocks and items related to Jungle wood.",
+    "values": [
+      {
+        "material": "JUNGLE_BOAT",
+        "difficulty": 1
+      },
+      {
+        "material": "JUNGLE_CHEST_BOAT",
+        "difficulty": 1
+      },
+      {
+        "material": "JUNGLE_BUTTON",
+        "difficulty": 1
+      },
+      {
+        "material": "JUNGLE_DOOR",
+        "difficulty": 1
+      },
+      {
+        "material": "JUNGLE_FENCE",
+        "difficulty": 1
+      },
+      {
+        "material": "JUNGLE_FENCE_GATE",
+        "difficulty": 1
+      },
+      {
+        "material": "JUNGLE_HANGING_SIGN",
+        "difficulty": 2
+      },
+      {
+        "material": "JUNGLE_LEAVES",
+        "difficulty": 3
+      },
+      {
+        "material": "JUNGLE_LOG",
+        "difficulty": 1
+      },
+      {
+        "material": "JUNGLE_PLANKS",
+        "difficulty": 1
+      },
+      {
+        "material": "JUNGLE_PRESSURE_PLATE",
+        "difficulty": 1
+      },
+      {
+        "material": "JUNGLE_SAPLING",
+        "difficulty": 1
+      },
+      {
+        "material": "JUNGLE_SIGN",
+        "difficulty": 1
+      },
+      {
+        "material": "JUNGLE_SLAB",
+        "difficulty": 1
+      },
+      {
+        "material": "JUNGLE_STAIRS",
+        "difficulty": 1
+      },
+      {
+        "material": "JUNGLE_TRAPDOOR",
+        "difficulty": 1
+      },
+      {
+        "material": "JUNGLE_WOOD",
+        "difficulty": 1
+      },
+      {
+        "material": "STRIPPED_JUNGLE_LOG",
+        "difficulty": 1
+      },
+      {
+        "material": "STRIPPED_JUNGLE_WOOD",
+        "difficulty": 1
+      }
+    ]
+  },
+  {
+    "group": "CHERRY_WOOD",
+    "description": "All blocks and items related to Cherry wood.",
+    "values": [
+      {
+        "material": "CHERRY_BOAT",
+        "difficulty": 1
+      },
+      {
+        "material": "CHERRY_CHEST_BOAT",
+        "difficulty": 1
+      },
+      {
+        "material": "CHERRY_BUTTON",
+        "difficulty": 1
+      },
+      {
+        "material": "CHERRY_DOOR",
+        "difficulty": 1
+      },
+      {
+        "material": "CHERRY_FENCE",
+        "difficulty": 1
+      },
+      {
+        "material": "CHERRY_FENCE_GATE",
+        "difficulty": 1
+      },
+      {
+        "material": "CHERRY_HANGING_SIGN",
+        "difficulty": 2
+      },
+      {
+        "material": "CHERRY_LEAVES",
+        "difficulty": 2
+      },
+      {
+        "material": "CHERRY_LOG",
+        "difficulty": 1
+      },
+      {
+        "material": "CHERRY_PLANKS",
+        "difficulty": 1
+      },
+      {
+        "material": "CHERRY_PRESSURE_PLATE",
+        "difficulty": 1
+      },
+      {
+        "material": "CHERRY_SAPLING",
+        "difficulty": 1
+      },
+      {
+        "material": "CHERRY_SIGN",
+        "difficulty": 1
+      },
+      {
+        "material": "CHERRY_SLAB",
+        "difficulty": 1
+      },
+      {
+        "material": "CHERRY_STAIRS",
+        "difficulty": 1
+      },
+      {
+        "material": "CHERRY_TRAPDOOR",
+        "difficulty": 1
+      },
+      {
+        "material": "CHERRY_WOOD",
+        "difficulty": 1
+      },
+      {
+        "material": "STRIPPED_CHERRY_LOG",
+        "difficulty": 1
+      },
+      {
+        "material": "STRIPPED_CHERRY_WOOD",
+        "difficulty": 1
+      }
+    ]
+  },
+  {
+    "group": "MANGROVE_WOOD",
+    "description": "All blocks and items related to Mangrove wood.",
+    "values": [
+      {
+        "material": "MANGROVE_BOAT",
+        "difficulty": 1
+      },
+      {
+        "material": "MANGROVE_CHEST_BOAT",
+        "difficulty": 1
+      },
+      {
+        "material": "MANGROVE_BUTTON",
+        "difficulty": 1
+      },
+      {
+        "material": "MANGROVE_DOOR",
+        "difficulty": 1
+      },
+      {
+        "material": "MANGROVE_FENCE",
+        "difficulty": 1
+      },
+      {
+        "material": "MANGROVE_FENCE_GATE",
+        "difficulty": 1
+      },
+      {
+        "material": "MANGROVE_HANGING_SIGN",
+        "difficulty": 2
+      },
+      {
+        "material": "MANGROVE_LEAVES",
+        "difficulty": 2
+      },
+      {
+        "material": "MANGROVE_LOG",
+        "difficulty": 1
+      },
+      {
+        "material": "MANGROVE_PLANKS",
+        "difficulty": 1
+      },
+      {
+        "material": "MANGROVE_PRESSURE_PLATE",
+        "difficulty": 1
+      },
+      {
+        "material": "MANGROVE_PROPAGULE",
+        "difficulty": 4
+      },
+      {
+        "material": "MANGROVE_ROOTS",
+        "difficulty": 4
+      },
+      {
+        "material": "MANGROVE_SIGN",
+        "difficulty": 1
+      },
+      {
+        "material": "MANGROVE_SLAB",
+        "difficulty": 1
+      },
+      {
+        "material": "MANGROVE_STAIRS",
+        "difficulty": 1
+      },
+      {
+        "material": "MANGROVE_TRAPDOOR",
+        "difficulty": 1
+      },
+      {
+        "material": "MANGROVE_WOOD",
+        "difficulty": 1
+      },
+      {
+        "material": "MUDDY_MANGROVE_ROOTS",
+        "difficulty": 4
+      },
+      {
+        "material": "STRIPPED_MANGROVE_LOG",
+        "difficulty": 1
+      },
+      {
+        "material": "STRIPPED_MANGROVE_WOOD",
+        "difficulty": 1
+      }
+    ]
+  },
+  {
+    "group": "CRIMSON_WOOD",
+    "description": "All blocks and items related to Crimson wood from the Nether.",
+    "values": [
+      {
+        "material": "CRIMSON_BUTTON",
+        "difficulty": 1
+      },
+      {
+        "material": "CRIMSON_DOOR",
+        "difficulty": 1
+      },
+      {
+        "material": "CRIMSON_FENCE",
+        "difficulty": 1
+      },
+      {
+        "material": "CRIMSON_FENCE_GATE",
+        "difficulty": 1
+      },
+      {
+        "material": "CRIMSON_HANGING_SIGN",
+        "difficulty": 2
+      },
+      {
+        "material": "CRIMSON_HYPHAE",
+        "difficulty": 1
+      },
+      {
+        "material": "CRIMSON_PLANKS",
+        "difficulty": 1
+      },
+      {
+        "material": "CRIMSON_PRESSURE_PLATE",
+        "difficulty": 1
+      },
+      {
+        "material": "CRIMSON_SIGN",
+        "difficulty": 1
+      },
+      {
+        "material": "CRIMSON_SLAB",
+        "difficulty": 1
+      },
+      {
+        "material": "CRIMSON_STAIRS",
+        "difficulty": 1
+      },
+      {
+        "material": "CRIMSON_STEM",
+        "difficulty": 1
+      },
+      {
+        "material": "CRIMSON_TRAPDOOR",
+        "difficulty": 1
+      },
+      {
+        "material": "STRIPPED_CRIMSON_HYPHAE",
+        "difficulty": 1
+      },
+      {
+        "material": "STRIPPED_CRIMSON_STEM",
+        "difficulty": 1
+      }
+    ]
+  },
+  {
+    "group": "WARPED_WOOD",
+    "description": "All blocks and items related to Warped wood from the Nether.",
+    "values": [
+      {
+        "material": "WARPED_BUTTON",
+        "difficulty": 1
+      },
+      {
+        "material": "WARPED_DOOR",
+        "difficulty": 1
+      },
+      {
+        "material": "WARPED_FENCE",
+        "difficulty": 1
+      },
+      {
+        "material": "WARPED_FENCE_GATE",
+        "difficulty": 1
+      },
+      {
+        "material": "WARPED_FUNGUS_ON_A_STICK",
+        "difficulty": 3
+      },
+      {
+        "material": "WARPED_HANGING_SIGN",
+        "difficulty": 2
+      },
+      {
+        "material": "WARPED_HYPHAE",
+        "difficulty": 1
+      },
+      {
+        "material": "WARPED_PLANKS",
+        "difficulty": 1
+      },
+      {
+        "material": "WARPED_PRESSURE_PLATE",
+        "difficulty": 1
+      },
+      {
+        "material": "WARPED_SIGN",
+        "difficulty": 1
+      },
+      {
+        "material": "WARPED_SLAB",
+        "difficulty": 1
+      },
+      {
+        "material": "WARPED_STAIRS",
+        "difficulty": 1
+      },
+      {
+        "material": "WARPED_STEM",
+        "difficulty": 1
+      },
+      {
+        "material": "WARPED_TRAPDOOR",
+        "difficulty": 1
+      },
+      {
+        "material": "STRIPPED_WARPED_HYPHAE",
+        "difficulty": 1
+      },
+      {
+        "material": "STRIPPED_WARPED_STEM",
+        "difficulty": 1
+      }
+    ]
+  },
+  {
+    "group": "BAMBOO",
+    "description": "All blocks and items made from Bamboo.",
+    "values": [
+      {
+        "material": "BAMBOO",
+        "difficulty": 4
+      },
+      {
+        "material": "BAMBOO_CHEST_RAFT",
+        "difficulty": 1
+      },
+      {
+        "material": "BAMBOO_RAFT",
+        "difficulty": 1
+      },
+      {
+        "material": "BAMBOO_BLOCK",
+        "difficulty": 4
+      },
+      {
+        "material": "BAMBOO_BUTTON",
+        "difficulty": 1
+      },
+      {
+        "material": "BAMBOO_DOOR",
+        "difficulty": 1
+      },
+      {
+        "material": "BAMBOO_FENCE",
+        "difficulty": 1
+      },
+      {
+        "material": "BAMBOO_FENCE_GATE",
+        "difficulty": 1
+      },
+      {
+        "material": "BAMBOO_HANGING_SIGN",
+        "difficulty": 2
+      },
+      {
+        "material": "BAMBOO_MOSAIC",
+        "difficulty": 4
+      },
+      {
+        "material": "BAMBOO_MOSAIC_SLAB",
+        "difficulty": 4
+      },
+      {
+        "material": "BAMBOO_MOSAIC_STAIRS",
+        "difficulty": 4
+      },
+      {
+        "material": "BAMBOO_PLANKS",
+        "difficulty": 1
+      },
+      {
+        "material": "BAMBOO_PRESSURE_PLATE",
+        "difficulty": 1
+      },
+      {
+        "material": "BAMBOO_SIGN",
+        "difficulty": 1
+      },
+      {
+        "material": "BAMBOO_SLAB",
+        "difficulty": 1
+      },
+      {
+        "material": "BAMBOO_STAIRS",
+        "difficulty": 1
+      },
+      {
+        "material": "BAMBOO_TRAPDOOR",
+        "difficulty": 1
+      },
+      {
+        "material": "STRIPPED_BAMBOO_BLOCK",
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "group": "PALE_OAK_WOOD",
+    "description": "All blocks and items related to the non-standard Pale Oak wood.",
+    "values": [
+      {
+        "material": "PALE_OAK_BOAT",
+        "difficulty": 1
+      },
+      {
+        "material": "PALE_OAK_CHEST_BOAT",
+        "difficulty": 2
+      },
+      {
+        "material": "PALE_OAK_BUTTON",
+        "difficulty": 1
+      },
+      {
+        "material": "PALE_OAK_DOOR",
+        "difficulty": 1
+      },
+      {
+        "material": "PALE_OAK_FENCE",
+        "difficulty": 1
+      },
+      {
+        "material": "PALE_OAK_FENCE_GATE",
+        "difficulty": 1
+      },
+      {
+        "material": "PALE_OAK_HANGING_SIGN",
+        "difficulty": 2
+      },
+      {
+        "material": "PALE_OAK_LEAVES",
+        "difficulty": 2
+      },
+      {
+        "material": "PALE_OAK_LOG",
+        "difficulty": 1
+      },
+      {
+        "material": "PALE_OAK_PLANKS",
+        "difficulty": 1
+      },
+      {
+        "material": "PALE_OAK_PRESSURE_PLATE",
+        "difficulty": 1
+      },
+      {
+        "material": "PALE_OAK_SAPLING",
+        "difficulty": 1
+      },
+      {
+        "material": "PALE_OAK_SIGN",
+        "difficulty": 1
+      },
+      {
+        "material": "PALE_OAK_SLAB",
+        "difficulty": 1
+      },
+      {
+        "material": "PALE_OAK_STAIRS",
+        "difficulty": 1
+      },
+      {
+        "material": "PALE_OAK_TRAPDOOR",
+        "difficulty": 1
+      },
+      {
+        "material": "PALE_OAK_WOOD",
+        "difficulty": 1
+      },
+      {
+        "material": "STRIPPED_PALE_OAK_LOG",
+        "difficulty": 1
+      },
+      {
+        "material": "STRIPPED_PALE_OAK_WOOD",
+        "difficulty": 1
+      }
+    ]
+  },
+  {
+    "group": "STONE",
+    "description": "Items related to basic Stone.",
+    "values": [
+      {
+        "material": "STONE",
+        "difficulty": 1
+      },
+      {
+        "material": "STONE_STAIRS",
+        "difficulty": 2
+      },
+      {
+        "material": "STONE_SLAB",
+        "difficulty": 1
+      },
+      {
+        "material": "STONE_BUTTON",
+        "difficulty": 1
+      },
+      {
+        "material": "STONE_PRESSURE_PLATE",
+        "difficulty": 2
+      },
+      {
+        "material": "SMOOTH_STONE",
+        "difficulty": 2
+      },
+      {
+        "material": "SMOOTH_STONE_SLAB",
+        "difficulty": 2
+      }
+    ]
+  },
+  {
+    "group": "COBBLESTONE",
+    "description": "All blocks and items made from Cobblestone and its mossy variant.",
+    "values": [
+      {
+        "material": "COBBLESTONE",
+        "difficulty": 1
+      },
+      {
+        "material": "COBBLESTONE_SLAB",
+        "difficulty": 1
+      },
+      {
+        "material": "COBBLESTONE_STAIRS",
+        "difficulty": 1
+      },
+      {
+        "material": "COBBLESTONE_WALL",
+        "difficulty": 1
+      },
+      {
+        "material": "MOSSY_COBBLESTONE",
+        "difficulty": 2
+      },
+      {
+        "material": "MOSSY_COBBLESTONE_SLAB",
+        "difficulty": 4
+      },
+      {
+        "material": "MOSSY_COBBLESTONE_STAIRS",
+        "difficulty": 4
+      },
+      {
+        "material": "MOSSY_COBBLESTONE_WALL",
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "group": "STONE_BRICKS",
+    "description": "All blocks and items made from Stone Bricks, including mossy, cracked, and chiseled variants.",
+    "values": [
+      {
+        "material": "CHISELED_STONE_BRICKS",
+        "difficulty": 2
+      },
+      {
+        "material": "CRACKED_STONE_BRICKS",
+        "difficulty": 2
+      },
+      {
+        "material": "MOSSY_STONE_BRICK_SLAB",
+        "difficulty": 4
+      },
+      {
+        "material": "MOSSY_STONE_BRICK_STAIRS",
+        "difficulty": 4
+      },
+      {
+        "material": "MOSSY_STONE_BRICK_WALL",
+        "difficulty": 4
+      },
+      {
+        "material": "MOSSY_STONE_BRICKS",
+        "difficulty": 4
+      },
+      {
+        "material": "STONE_BRICK_SLAB",
+        "difficulty": 1
+      },
+      {
+        "material": "STONE_BRICK_STAIRS",
+        "difficulty": 2
+      },
+      {
+        "material": "STONE_BRICK_WALL",
+        "difficulty": 2
+      },
+      {
+        "material": "STONE_BRICKS",
+        "difficulty": 1
+      }
+    ]
+  },
+  {
+    "group": "DEEPSLATE",
+    "description": "All blocks and items made from Deepslate and its variants.",
+    "values": [
+      {
+        "material": "CHISELED_DEEPSLATE",
+        "difficulty": 3
+      },
+      {
+        "material": "COBBLED_DEEPSLATE",
+        "difficulty": 3
+      },
+      {
+        "material": "COBBLED_DEEPSLATE_SLAB",
+        "difficulty": 3
+      },
+      {
+        "material": "COBBLED_DEEPSLATE_STAIRS",
+        "difficulty": 3
+      },
+      {
+        "material": "COBBLED_DEEPSLATE_WALL",
+        "difficulty": 3
+      },
+      {
+        "material": "CRACKED_DEEPSLATE_BRICKS",
+        "difficulty": 3
+      },
+      {
+        "material": "CRACKED_DEEPSLATE_TILES",
+        "difficulty": 3
+      },
+      {
+        "material": "DEEPSLATE",
+        "difficulty": 3
+      },
+      {
+        "material": "DEEPSLATE_BRICK_SLAB",
+        "difficulty": 3
+      },
+      {
+        "material": "DEEPSLATE_BRICK_STAIRS",
+        "difficulty": 3
+      },
+      {
+        "material": "DEEPSLATE_BRICK_WALL",
+        "difficulty": 3
+      },
+      {
+        "material": "DEEPSLATE_BRICKS",
+        "difficulty": 3
+      },
+      {
+        "material": "DEEPSLATE_TILE_SLAB",
+        "difficulty": 3
+      },
+      {
+        "material": "DEEPSLATE_TILE_STAIRS",
+        "difficulty": 3
+      },
+      {
+        "material": "DEEPSLATE_TILE_WALL",
+        "difficulty": 2
+      },
+      {
+        "material": "DEEPSLATE_TILES",
+        "difficulty": 3
+      },
+      {
+        "material": "POLISHED_DEEPSLATE",
+        "difficulty": 1
+      },
+      {
+        "material": "POLISHED_DEEPSLATE_SLAB",
+        "difficulty": 3
+      },
+      {
+        "material": "POLISHED_DEEPSLATE_STAIRS",
+        "difficulty": 3
+      },
+      {
+        "material": "POLISHED_DEEPSLATE_WALL",
+        "difficulty": 3
+      }
+    ]
+  },
+  {
+    "group": "BLACKSTONE",
+    "description": "All blocks and items made from Blackstone and its variants.",
+    "values": [
+      {
+        "material": "BLACKSTONE",
+        "difficulty": 3
+      },
+      {
+        "material": "BLACKSTONE_SLAB",
+        "difficulty": 3
+      },
+      {
+        "material": "BLACKSTONE_STAIRS",
+        "difficulty": 3
+      },
+      {
+        "material": "BLACKSTONE_WALL",
+        "difficulty": 3
+      },
+      {
+        "material": "CHISELED_POLISHED_BLACKSTONE",
+        "difficulty": 3
+      },
+      {
+        "material": "CRACKED_POLISHED_BLACKSTONE_BRICKS",
+        "difficulty": 3
+      },
+      {
+        "material": "GILDED_BLACKSTONE",
+        "difficulty": 4
+      },
+      {
+        "material": "POLISHED_BLACKSTONE",
+        "difficulty": 3
+      },
+      {
+        "material": "POLISHED_BLACKSTONE_BRICK_SLAB",
+        "difficulty": 3
+      },
+      {
+        "material": "POLISHED_BLACKSTONE_BRICK_STAIRS",
+        "difficulty": 3
+      },
+      {
+        "material": "POLISHED_BLACKSTONE_BRICK_WALL",
+        "difficulty": 3
+      },
+      {
+        "material": "POLISHED_BLACKSTONE_BRICKS",
+        "difficulty": 4
+      },
+      {
+        "material": "POLISHED_BLACKSTONE_BUTTON",
+        "difficulty": 3
+      },
+      {
+        "material": "POLISHED_BLACKSTONE_PRESSURE_PLATE",
+        "difficulty": 3
+      },
+      {
+        "material": "POLISHED_BLACKSTONE_SLAB",
+        "difficulty": 3
+      },
+      {
+        "material": "POLISHED_BLACKSTONE_STAIRS",
+        "difficulty": 3
+      },
+      {
+        "material": "POLISHED_BLACKSTONE_WALL",
+        "difficulty": 3
+      }
+    ]
+  },
+  {
+    "group": "NETHER_BRICKS",
+    "description": "All blocks and items made from Nether Bricks.",
+    "values": [
+      {
+        "material": "CHISELED_NETHER_BRICKS",
+        "difficulty": 3
+      },
+      {
+        "material": "CRACKED_NETHER_BRICKS",
+        "difficulty": 3
+      },
+      {
+        "material": "NETHER_BRICK",
+        "difficulty": 3
+      },
+      {
+        "material": "NETHER_BRICK_FENCE",
+        "difficulty": 3
+      },
+      {
+        "material": "NETHER_BRICK_SLAB",
+        "difficulty": 3
+      },
+      {
+        "material": "NETHER_BRICK_STAIRS",
+        "difficulty": 3
+      },
+      {
+        "material": "NETHER_BRICK_WALL",
+        "difficulty": 3
+      },
+      {
+        "material": "NETHER_BRICKS",
+        "difficulty": 4
+      },
+      {
+        "material": "RED_NETHER_BRICK_SLAB",
+        "difficulty": 4
+      },
+      {
+        "material": "RED_NETHER_BRICK_STAIRS",
+        "difficulty": 4
+      },
+      {
+        "material": "RED_NETHER_BRICK_WALL",
+        "difficulty": 4
+      },
+      {
+        "material": "RED_NETHER_BRICKS",
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "group": "SANDSTONE",
+    "description": "All blocks and items made from Sand and Sandstone, including the red variant.",
+    "values": [
+      {
+        "material": "CHISELED_RED_SANDSTONE",
+        "difficulty": 4
+      },
+      {
+        "material": "CHISELED_SANDSTONE",
+        "difficulty": 2
+      },
+      {
+        "material": "CUT_RED_SANDSTONE",
+        "difficulty": 4
+      },
+      {
+        "material": "CUT_RED_SANDSTONE_SLAB",
+        "difficulty": 4
+      },
+      {
+        "material": "CUT_SANDSTONE",
+        "difficulty": 1
+      },
+      {
+        "material": "CUT_SANDSTONE_SLAB",
+        "difficulty": 2
+      },
+      {
+        "material": "RED_SAND",
+        "difficulty": 4
+      },
+      {
+        "material": "RED_SANDSTONE",
+        "difficulty": 4
+      },
+      {
+        "material": "RED_SANDSTONE_SLAB",
+        "difficulty": 4
+      },
+      {
+        "material": "RED_SANDSTONE_STAIRS",
+        "difficulty": 4
+      },
+      {
+        "material": "RED_SANDSTONE_WALL",
+        "difficulty": 4
+      },
+      {
+        "material": "SAND",
+        "difficulty": 1
+      },
+      {
+        "material": "SANDSTONE",
+        "difficulty": 1
+      },
+      {
+        "material": "SANDSTONE_SLAB",
+        "difficulty": 1
+      },
+      {
+        "material": "SANDSTONE_STAIRS",
+        "difficulty": 1
+      },
+      {
+        "material": "SANDSTONE_WALL",
+        "difficulty": 1
+      },
+      {
+        "material": "SMOOTH_RED_SANDSTONE",
+        "difficulty": 4
+      },
+      {
+        "material": "SMOOTH_RED_SANDSTONE_SLAB",
+        "difficulty": 4
+      },
+      {
+        "material": "SMOOTH_RED_SANDSTONE_STAIRS",
+        "difficulty": 4
+      },
+      {
+        "material": "SMOOTH_SANDSTONE",
+        "difficulty": 2
+      },
+      {
+        "material": "SMOOTH_SANDSTONE_SLAB",
+        "difficulty": 2
+      },
+      {
+        "material": "SMOOTH_SANDSTONE_STAIRS",
+        "difficulty": 2
+      },
+      {
+        "material": "SUSPICIOUS_GRAVEL",
+        "difficulty": 4
+      },
+      {
+        "material": "SUSPICIOUS_SAND",
+        "difficulty": 6
+      }
+    ]
+  },
+  {
+    "group": "COPPER",
+    "description": "All blocks and items made from Copper, including all weathered, cut, and waxed variants.",
+    "values": [
+      {
+        "material": "CHISELED_COPPER",
+        "difficulty": 3
+      },
+      {
+        "material": "COPPER_BULB",
+        "difficulty": 4
+      },
+      {
+        "material": "COPPER_DOOR",
+        "difficulty": 2
+      },
+      {
+        "material": "COPPER_GRATE",
+        "difficulty": 3
+      },
+      {
+        "material": "COPPER_TRAPDOOR",
+        "difficulty": 2
+      },
+      {
+        "material": "CUT_COPPER",
+        "difficulty": 2
+      },
+      {
+        "material": "CUT_COPPER_SLAB",
+        "difficulty": 2
+      },
+      {
+        "material": "CUT_COPPER_STAIRS",
+        "difficulty": 2
+      },
+      {
+        "material": "EXPOSED_CHISELED_COPPER",
+        "difficulty": 2
+      },
+      {
+        "material": "EXPOSED_COPPER",
+        "difficulty": 2
+      },
+      {
+        "material": "EXPOSED_COPPER_BULB",
+        "difficulty": 4
+      },
+      {
+        "material": "EXPOSED_COPPER_DOOR",
+        "difficulty": 2
+      },
+      {
+        "material": "EXPOSED_COPPER_GRATE",
+        "difficulty": 2
+      },
+      {
+        "material": "EXPOSED_COPPER_TRAPDOOR",
+        "difficulty": 2
+      },
+      {
+        "material": "EXPOSED_CUT_COPPER",
+        "difficulty": 2
+      },
+      {
+        "material": "EXPOSED_CUT_COPPER_SLAB",
+        "difficulty": 2
+      },
+      {
+        "material": "EXPOSED_CUT_COPPER_STAIRS",
+        "difficulty": 2
+      },
+      {
+        "material": "OXIDIZED_CHISELED_COPPER",
+        "difficulty": 2
+      },
+      {
+        "material": "OXIDIZED_COPPER",
+        "difficulty": 2
+      },
+      {
+        "material": "OXIDIZED_COPPER_BULB",
+        "difficulty": 4
+      },
+      {
+        "material": "OXIDIZED_COPPER_DOOR",
+        "difficulty": 2
+      },
+      {
+        "material": "OXIDIZED_COPPER_GRATE",
+        "difficulty": 2
+      },
+      {
+        "material": "OXIDIZED_COPPER_TRAPDOOR",
+        "difficulty": 2
+      },
+      {
+        "material": "OXIDIZED_CUT_COPPER",
+        "difficulty": 2
+      },
+      {
+        "material": "OXIDIZED_CUT_COPPER_SLAB",
+        "difficulty": 2
+      },
+      {
+        "material": "OXIDIZED_CUT_COPPER_STAIRS",
+        "difficulty": 2
+      },
+      {
+        "material": "WAXED_CHISELED_COPPER",
+        "difficulty": 2
+      },
+      {
+        "material": "WAXED_COPPER_BLOCK",
+        "difficulty": 2
+      },
+      {
+        "material": "WAXED_COPPER_BULB",
+        "difficulty": 4
+      },
+      {
+        "material": "WAXED_COPPER_DOOR",
+        "difficulty": 2
+      },
+      {
+        "material": "WAXED_COPPER_GRATE",
+        "difficulty": 2
+      },
+      {
+        "material": "WAXED_COPPER_TRAPDOOR",
+        "difficulty": 2
+      },
+      {
+        "material": "WAXED_CUT_COPPER",
+        "difficulty": 2
+      },
+      {
+        "material": "WAXED_CUT_COPPER_SLAB",
+        "difficulty": 2
+      },
+      {
+        "material": "WAXED_CUT_COPPER_STAIRS",
+        "difficulty": 2
+      },
+      {
+        "material": "WAXED_EXPOSED_CHISELED_COPPER",
+        "difficulty": 2
+      },
+      {
+        "material": "WAXED_EXPOSED_COPPER",
+        "difficulty": 2
+      },
+      {
+        "material": "WAXED_EXPOSED_COPPER_BULB",
+        "difficulty": 4
+      },
+      {
+        "material": "WAXED_EXPOSED_COPPER_DOOR",
+        "difficulty": 2
+      },
+      {
+        "material": "WAXED_EXPOSED_COPPER_GRATE",
+        "difficulty": 3
+      },
+      {
+        "material": "WAXED_EXPOSED_COPPER_TRAPDOOR",
+        "difficulty": 2
+      },
+      {
+        "material": "WAXED_EXPOSED_CUT_COPPER",
+        "difficulty": 2
+      },
+      {
+        "material": "WAXED_EXPOSED_CUT_COPPER_SLAB",
+        "difficulty": 2
+      },
+      {
+        "material": "WAXED_EXPOSED_CUT_COPPER_STAIRS",
+        "difficulty": 2
+      },
+      {
+        "material": "WAXED_OXIDIZED_CHISELED_COPPER",
+        "difficulty": 2
+      },
+      {
+        "material": "WAXED_OXIDIZED_COPPER",
+        "difficulty": 2
+      },
+      {
+        "material": "WAXED_OXIDIZED_COPPER_BULB",
+        "difficulty": 4
+      },
+      {
+        "material": "WAXED_OXIDIZED_COPPER_DOOR",
+        "difficulty": 2
+      },
+      {
+        "material": "WAXED_OXIDIZED_COPPER_GRATE",
+        "difficulty": 3
+      },
+      {
+        "material": "WAXED_OXIDIZED_COPPER_TRAPDOOR",
+        "difficulty": 2
+      },
+      {
+        "material": "WAXED_OXIDIZED_CUT_COPPER",
+        "difficulty": 2
+      },
+      {
+        "material": "WAXED_OXIDIZED_CUT_COPPER_SLAB",
+        "difficulty": 2
+      },
+      {
+        "material": "WAXED_OXIDIZED_CUT_COPPER_STAIRS",
+        "difficulty": 2
+      },
+      {
+        "material": "WAXED_WEATHERED_CHISELED_COPPER",
+        "difficulty": 2
+      },
+      {
+        "material": "WAXED_WEATHERED_COPPER",
+        "difficulty": 2
+      },
+      {
+        "material": "WAXED_WEATHERED_COPPER_BULB",
+        "difficulty": 4
+      },
+      {
+        "material": "WAXED_WEATHERED_COPPER_DOOR",
+        "difficulty": 2
+      },
+      {
+        "material": "WAXED_WEATHERED_COPPER_GRATE",
+        "difficulty": 2
+      },
+      {
+        "material": "WAXED_WEATHERED_COPPER_TRAPDOOR",
+        "difficulty": 2
+      },
+      {
+        "material": "WAXED_WEATHERED_CUT_COPPER",
+        "difficulty": 2
+      },
+      {
+        "material": "WAXED_WEATHERED_CUT_COPPER_SLAB",
+        "difficulty": 2
+      },
+      {
+        "material": "WAXED_WEATHERED_CUT_COPPER_STAIRS",
+        "difficulty": 2
+      },
+      {
+        "material": "WEATHERED_CHISELED_COPPER",
+        "difficulty": 2
+      },
+      {
+        "material": "WEATHERED_COPPER",
+        "difficulty": 2
+      },
+      {
+        "material": "WEATHERED_COPPER_BULB",
+        "difficulty": 4
+      },
+      {
+        "material": "WEATHERED_COPPER_DOOR",
+        "difficulty": 3
+      },
+      {
+        "material": "WEATHERED_COPPER_GRATE",
+        "difficulty": 2
+      },
+      {
+        "material": "WEATHERED_COPPER_TRAPDOOR",
+        "difficulty": 2
+      },
+      {
+        "material": "WEATHERED_CUT_COPPER",
+        "difficulty": 2
+      },
+      {
+        "material": "WEATHERED_CUT_COPPER_SLAB",
+        "difficulty": 2
+      },
+      {
+        "material": "WEATHERED_CUT_COPPER_STAIRS",
+        "difficulty": 2
+      }
+    ]
+  },
+  {
+    "group": "ORES_AND_MINERALS",
+    "description": "Ores, their deepslate variants, and their resulting raw materials, ingots, gems, and storage blocks.",
+    "values": [
+      {
+        "material": "ANCIENT_DEBRIS",
+        "difficulty": 4
+      },
+      {
+        "material": "COAL",
+        "difficulty": 1
+      },
+      {
+        "material": "COAL_ORE",
+        "difficulty": 5
+      },
+      {
+        "material": "COPPER_INGOT",
+        "difficulty": 2
+      },
+      {
+        "material": "COPPER_ORE",
+        "difficulty": 2
+      },
+      {
+        "material": "DEEPSLATE_COAL_ORE",
+        "difficulty": 5
+      },
+      {
+        "material": "DEEPSLATE_COPPER_ORE",
+        "difficulty": 5
+      },
+      {
+        "material": "DEEPSLATE_DIAMOND_ORE",
+        "difficulty": 5
+      },
+      {
+        "material": "DEEPSLATE_EMERALD_ORE",
+        "difficulty": 4
+      },
+      {
+        "material": "DEEPSLATE_GOLD_ORE",
+        "difficulty": 3
+      },
+      {
+        "material": "DEEPSLATE_IRON_ORE",
+        "difficulty": 5
+      },
+      {
+        "material": "DEEPSLATE_LAPIS_ORE",
+        "difficulty": 5
+      },
+      {
+        "material": "DEEPSLATE_REDSTONE_ORE",
+        "difficulty": 5
+      },
+      {
+        "material": "DIAMOND",
+        "difficulty": 3
+      },
+      {
+        "material": "DIAMOND_ORE",
+        "difficulty": 5
+      },
+      {
+        "material": "EMERALD",
+        "difficulty": 3
+      },
+      {
+        "material": "EMERALD_ORE",
+        "difficulty": 5
+      },
+      {
+        "material": "GOLD_INGOT",
+        "difficulty": 3
+      },
+      {
+        "material": "GOLD_NUGGET",
+        "difficulty": 3
+      },
+      {
+        "material": "GOLD_ORE",
+        "difficulty": 3
+      },
+      {
+        "material": "IRON_INGOT",
+        "difficulty": 2
+      },
+      {
+        "material": "IRON_NUGGET",
+        "difficulty": 2
+      },
+      {
+        "material": "IRON_ORE",
+        "difficulty": 5
+      },
+      {
+        "material": "LAPIS_LAZULI",
+        "difficulty": 3
+      },
+      {
+        "material": "LAPIS_ORE",
+        "difficulty": 5
+      },
+      {
+        "material": "NETHER_GOLD_ORE",
+        "difficulty": 5
+      },
+      {
+        "material": "NETHERITE_INGOT",
+        "difficulty": 4
+      },
+      {
+        "material": "NETHERITE_SCRAP",
+        "difficulty": 4
+      },
+      {
+        "material": "RAW_COPPER",
+        "difficulty": 1
+      },
+      {
+        "material": "RAW_COPPER_BLOCK",
+        "difficulty": 2
+      },
+      {
+        "material": "RAW_GOLD",
+        "difficulty": 3
+      },
+      {
+        "material": "RAW_GOLD_BLOCK",
+        "difficulty": 3
+      },
+      {
+        "material": "RAW_IRON",
+        "difficulty": 1
+      },
+      {
+        "material": "RAW_IRON_BLOCK",
+        "difficulty": 1
+      },
+      {
+        "material": "REDSTONE",
+        "difficulty": 3
+      },
+      {
+        "material": "REDSTONE_ORE",
+        "difficulty": 5
+      }
+    ]
+  },
+  {
+    "group": "MINERAL_BLOCK",
+    "description": "All blocks made from minerals and gems.",
+    "values": [
+      {
+        "material": "COPPER_BLOCK",
+        "difficulty": 2
+      },
+      {
+        "material": "COAL_BLOCK",
+        "difficulty": 1
+      },
+      {
+        "material": "DIAMOND_BLOCK",
+        "difficulty": 4
+      },
+      {
+        "material": "EMERALD_BLOCK",
+        "difficulty": 3
+      },
+      {
+        "material": "GOLD_BLOCK",
+        "difficulty": 3
+      },
+      {
+        "material": "IRON_BLOCK",
+        "difficulty": 2
+      },
+      {
+        "material": "LAPIS_BLOCK",
+        "difficulty": 3
+      },
+      {
+        "material": "NETHERITE_BLOCK",
+        "difficulty": 5
+      },
+      {
+        "material": "REDSTONE_BLOCK",
+        "difficulty": 3
+      }
+    ]
+  },
+  {
+    "group": "QUARTZ",
+    "description": "All blocks and items made from Nether Quartz.",
+    "values": [
+      {
+        "material": "CHISELED_QUARTZ_BLOCK",
+        "difficulty": 3
+      },
+      {
+        "material": "NETHER_QUARTZ_ORE",
+        "difficulty": 5
+      },
+      {
+        "material": "QUARTZ",
+        "difficulty": 3
+      },
+      {
+        "material": "QUARTZ_BLOCK",
+        "difficulty": 3
+      },
+      {
+        "material": "QUARTZ_BRICKS",
+        "difficulty": 3
+      },
+      {
+        "material": "QUARTZ_PILLAR",
+        "difficulty": 3
+      },
+      {
+        "material": "QUARTZ_SLAB",
+        "difficulty": 3
+      },
+      {
+        "material": "QUARTZ_STAIRS",
+        "difficulty": 3
+      },
+      {
+        "material": "SMOOTH_QUARTZ",
+        "difficulty": 3
+      },
+      {
+        "material": "SMOOTH_QUARTZ_SLAB",
+        "difficulty": 3
+      },
+      {
+        "material": "SMOOTH_QUARTZ_STAIRS",
+        "difficulty": 3
+      }
+    ]
+  },
+  {
+    "group": "AMETHYST",
+    "description": "All blocks and items related to Amethyst.",
+    "values": [
+      {
+        "material": "AMETHYST_BLOCK",
+        "difficulty": 3
+      },
+      {
+        "material": "AMETHYST_CLUSTER",
+        "difficulty": 5
+      },
+      {
+        "material": "AMETHYST_SHARD",
+        "difficulty": 3
+      },
+      {
+        "material": "LARGE_AMETHYST_BUD",
+        "difficulty": 5
+      },
+      {
+        "material": "MEDIUM_AMETHYST_BUD",
+        "difficulty": 5
+      },
+      {
+        "material": "SMALL_AMETHYST_BUD",
+        "difficulty": 5
+      }
+    ]
+  },
+  {
+    "group": "PRISMARINE",
+    "description": "All blocks and items related to Prismarine.",
+    "values": [
+      {
+        "material": "DARK_PRISMARINE",
+        "difficulty": 4
+      },
+      {
+        "material": "DARK_PRISMARINE_SLAB",
+        "difficulty": 4
+      },
+      {
+        "material": "DARK_PRISMARINE_STAIRS",
+        "difficulty": 4
+      },
+      {
+        "material": "PRISMARINE",
+        "difficulty": 4
+      },
+      {
+        "material": "PRISMARINE_BRICK_SLAB",
+        "difficulty": 4
+      },
+      {
+        "material": "PRISMARINE_BRICK_STAIRS",
+        "difficulty": 4
+      },
+      {
+        "material": "PRISMARINE_BRICKS",
+        "difficulty": 4
+      },
+      {
+        "material": "PRISMARINE_CRYSTALS",
+        "difficulty": 4
+      },
+      {
+        "material": "PRISMARINE_SHARD",
+        "difficulty": 4
+      },
+      {
+        "material": "PRISMARINE_SLAB",
+        "difficulty": 4
+      },
+      {
+        "material": "PRISMARINE_STAIRS",
+        "difficulty": 4
+      },
+      {
+        "material": "PRISMARINE_WALL",
+        "difficulty": 4
+      },
+      {
+        "material": "SEA_LANTERN",
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "group": "END_BLOCKS",
+    "description": "All blocks and items found in The End.",
+    "values": [
+      {
+        "material": "CHORUS_FLOWER",
+        "difficulty": 5
+      },
+      {
+        "material": "END_ROD",
+        "difficulty": 6
+      },
+      {
+        "material": "END_STONE",
+        "difficulty": 5
+      },
+      {
+        "material": "END_STONE_BRICK_SLAB",
+        "difficulty": 5
+      },
+      {
+        "material": "END_STONE_BRICK_STAIRS",
+        "difficulty": 5
+      },
+      {
+        "material": "END_STONE_BRICK_WALL",
+        "difficulty": 5
+      },
+      {
+        "material": "END_STONE_BRICKS",
+        "difficulty": 5
+      },
+      {
+        "material": "PURPUR_BLOCK",
+        "difficulty": 5
+      },
+      {
+        "material": "PURPUR_PILLAR",
+        "difficulty": 6
+      },
+      {
+        "material": "PURPUR_SLAB",
+        "difficulty": 6
+      },
+      {
+        "material": "PURPUR_STAIRS",
+        "difficulty": 6
+      }
+    ]
+  },
+  {
+    "group": "BRICKS",
+    "description": "Standard clay bricks and related items.",
+    "values": [
+      {
+        "material": "BRICK",
+        "difficulty": 1
+      },
+      {
+        "material": "BRICK_SLAB",
+        "difficulty": 2
+      },
+      {
+        "material": "BRICK_STAIRS",
+        "difficulty": 2
+      },
+      {
+        "material": "BRICK_WALL",
+        "difficulty": 2
+      },
+      {
+        "material": "BRICKS",
+        "difficulty": 2
+      },
+      {
+        "material": "CLAY",
+        "difficulty": 1
+      },
+      {
+        "material": "CLAY_BALL",
+        "difficulty": 1
+      }
+    ]
+  },
+  {
+    "group": "MUD",
+    "description": "All blocks and items made from Mud.",
+    "values": [
+      {
+        "material": "MUD",
+        "difficulty": 2
+      },
+      {
+        "material": "MUD_BRICK_SLAB",
+        "difficulty": 2
+      },
+      {
+        "material": "MUD_BRICK_STAIRS",
+        "difficulty": 2
+      },
+      {
+        "material": "MUD_BRICK_WALL",
+        "difficulty": 2
+      },
+      {
+        "material": "MUD_BRICKS",
+        "difficulty": 2
+      },
+      {
+        "material": "PACKED_MUD",
+        "difficulty": 2
+      }
+    ]
+  },
+  {
+    "group": "TUFF",
+    "description": "All blocks and items made from Tuff.",
+    "values": [
+      {
+        "material": "CHISELED_TUFF",
+        "difficulty": 2
+      },
+      {
+        "material": "CHISELED_TUFF_BRICKS",
+        "difficulty": 3
+      },
+      {
+        "material": "POLISHED_TUFF",
+        "difficulty": 2
+      },
+      {
+        "material": "POLISHED_TUFF_SLAB",
+        "difficulty": 2
+      },
+      {
+        "material": "POLISHED_TUFF_STAIRS",
+        "difficulty": 2
+      },
+      {
+        "material": "POLISHED_TUFF_WALL",
+        "difficulty": 3
+      },
+      {
+        "material": "TUFF",
+        "difficulty": 3
+      },
+      {
+        "material": "TUFF_BRICK_SLAB",
+        "difficulty": 3
+      },
+      {
+        "material": "TUFF_BRICK_STAIRS",
+        "difficulty": 3
+      },
+      {
+        "material": "TUFF_BRICK_WALL",
+        "difficulty": 2
+      },
+      {
+        "material": "TUFF_BRICKS",
+        "difficulty": 2
+      },
+      {
+        "material": "TUFF_SLAB",
+        "difficulty": 1
+      },
+      {
+        "material": "TUFF_STAIRS",
+        "difficulty": 1
+      },
+      {
+        "material": "TUFF_WALL",
+        "difficulty": 3
+      }
+    ]
+  },
+  {
+    "group": "GRANITE",
+    "description": "All blocks and items made from Granite.",
+    "values": [
+      {
+        "material": "GRANITE",
+        "difficulty": 1
+      },
+      {
+        "material": "GRANITE_SLAB",
+        "difficulty": 1
+      },
+      {
+        "material": "GRANITE_STAIRS",
+        "difficulty": 2
+      },
+      {
+        "material": "GRANITE_WALL",
+        "difficulty": 1
+      },
+      {
+        "material": "POLISHED_GRANITE",
+        "difficulty": 1
+      },
+      {
+        "material": "POLISHED_GRANITE_SLAB",
+        "difficulty": 1
+      },
+      {
+        "material": "POLISHED_GRANITE_STAIRS",
+        "difficulty": 2
+      }
+    ]
+  },
+  {
+    "group": "DIORITE",
+    "description": "All blocks and items made from Diorite.",
+    "values": [
+      {
+        "material": "DIORITE",
+        "difficulty": 1
+      },
+      {
+        "material": "DIORITE_SLAB",
+        "difficulty": 1
+      },
+      {
+        "material": "DIORITE_STAIRS",
+        "difficulty": 1
+      },
+      {
+        "material": "DIORITE_WALL",
+        "difficulty": 1
+      },
+      {
+        "material": "POLISHED_DIORITE",
+        "difficulty": 1
+      },
+      {
+        "material": "POLISHED_DIORITE_SLAB",
+        "difficulty": 2
+      },
+      {
+        "material": "POLISHED_DIORITE_STAIRS",
+        "difficulty": 1
+      }
+    ]
+  },
+  {
+    "group": "ANDESITE",
+    "description": "All blocks and items made from Andesite.",
+    "values": [
+      {
+        "material": "ANDESITE",
+        "difficulty": 1
+      },
+      {
+        "material": "ANDESITE_SLAB",
+        "difficulty": 1
+      },
+      {
+        "material": "ANDESITE_STAIRS",
+        "difficulty": 1
+      },
+      {
+        "material": "ANDESITE_WALL",
+        "difficulty": 1
+      },
+      {
+        "material": "POLISHED_ANDESITE",
+        "difficulty": 1
+      },
+      {
+        "material": "POLISHED_ANDESITE_SLAB",
+        "difficulty": 1
+      },
+      {
+        "material": "POLISHED_ANDESITE_STAIRS",
+        "difficulty": 1
+      }
+    ]
+  },
+  {
+    "group": "RESIN",
+    "description": "All blocks and items related to Resin.",
+    "values": [
+      {
+        "material": "CHISELED_RESIN_BRICKS",
+        "difficulty": 4
+      },
+      {
+        "material": "RESIN_BLOCK",
+        "difficulty": 4
+      },
+      {
+        "material": "RESIN_BRICK",
+        "difficulty": 4
+      },
+      {
+        "material": "RESIN_BRICK_SLAB",
+        "difficulty": 4
+      },
+      {
+        "material": "RESIN_BRICK_STAIRS",
+        "difficulty": 4
+      },
+      {
+        "material": "RESIN_BRICK_WALL",
+        "difficulty": 4
+      },
+      {
+        "material": "RESIN_BRICKS",
+        "difficulty": 4
+      },
+      {
+        "material": "RESIN_CLUMP",
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "group": "TOOLS",
+    "description": "Tools used for gathering resources, fighting, and other tasks.",
+    "values": [
+      {
+        "material": "BOW",
+        "difficulty": 2
+      },
+      {
+        "material": "BRUSH",
+        "difficulty": 2
+      },
+      {
+        "material": "CROSSBOW",
+        "difficulty": 3
+      },
+      {
+        "material": "DIAMOND_AXE",
+        "difficulty": 3
+      },
+      {
+        "material": "DIAMOND_HOE",
+        "difficulty": 3
+      },
+      {
+        "material": "DIAMOND_PICKAXE",
+        "difficulty": 3
+      },
+      {
+        "material": "DIAMOND_SHOVEL",
+        "difficulty": 3
+      },
+      {
+        "material": "DIAMOND_SWORD",
+        "difficulty": 3
+      },
+      {
+        "material": "FISHING_ROD",
+        "difficulty": 2
+      },
+      {
+        "material": "FLINT_AND_STEEL",
+        "difficulty": 2
+      },
+      {
+        "material": "GOLDEN_AXE",
+        "difficulty": 3
+      },
+      {
+        "material": "GOLDEN_HOE",
+        "difficulty": 3
+      },
+      {
+        "material": "GOLDEN_PICKAXE",
+        "difficulty": 3
+      },
+      {
+        "material": "GOLDEN_SHOVEL",
+        "difficulty": 3
+      },
+      {
+        "material": "GOLDEN_SWORD",
+        "difficulty": 3
+      },
+      {
+        "material": "IRON_AXE",
+        "difficulty": 2
+      },
+      {
+        "material": "IRON_HOE",
+        "difficulty": 2
+      },
+      {
+        "material": "IRON_PICKAXE",
+        "difficulty": 3
+      },
+      {
+        "material": "IRON_SHOVEL",
+        "difficulty": 2
+      },
+      {
+        "material": "IRON_SWORD",
+        "difficulty": 2
+      },
+      {
+        "material": "MACE",
+        "difficulty": 6
+      },
+      {
+        "material": "NETHERITE_AXE",
+        "difficulty": 5
+      },
+      {
+        "material": "NETHERITE_HOE",
+        "difficulty": 4
+      },
+      {
+        "material": "NETHERITE_PICKAXE",
+        "difficulty": 5
+      },
+      {
+        "material": "NETHERITE_SHOVEL",
+        "difficulty": 6
+      },
+      {
+        "material": "NETHERITE_SWORD",
+        "difficulty": 5
+      },
+      {
+        "material": "SHEARS",
+        "difficulty": 2
+      },
+      {
+        "material": "SPYGLASS",
+        "difficulty": 4
+      },
+      {
+        "material": "STONE_AXE",
+        "difficulty": 1
+      },
+      {
+        "material": "STONE_HOE",
+        "difficulty": 1
+      },
+      {
+        "material": "STONE_PICKAXE",
+        "difficulty": 1
+      },
+      {
+        "material": "STONE_SHOVEL",
+        "difficulty": 1
+      },
+      {
+        "material": "STONE_SWORD",
+        "difficulty": 1
+      },
+      {
+        "material": "TRIDENT",
+        "difficulty": 6
+      },
+      {
+        "material": "WOODEN_AXE",
+        "difficulty": 1
+      },
+      {
+        "material": "WOODEN_HOE",
+        "difficulty": 1
+      },
+      {
+        "material": "WOODEN_PICKAXE",
+        "difficulty": 1
+      },
+      {
+        "material": "WOODEN_SHOVEL",
+        "difficulty": 1
+      },
+      {
+        "material": "WOODEN_SWORD",
+        "difficulty": 1
+      }
+    ]
+  },
+  {
+    "group": "ARMOR",
+    "description": "Wearable items that provide protection from damage.",
+    "values": [
+      {
+        "material": "ARMADILLO_SCUTE",
+        "difficulty": 4
+      },
+      {
+        "material": "CHAINMAIL_BOOTS",
+        "difficulty": 3
+      },
+      {
+        "material": "CHAINMAIL_CHESTPLATE",
+        "difficulty": 3
+      },
+      {
+        "material": "CHAINMAIL_HELMET",
+        "difficulty": 3
+      },
+      {
+        "material": "CHAINMAIL_LEGGINGS",
+        "difficulty": 3
+      },
+      {
+        "material": "DIAMOND_BOOTS",
+        "difficulty": 3
+      },
+      {
+        "material": "DIAMOND_CHESTPLATE",
+        "difficulty": 3
+      },
+      {
+        "material": "DIAMOND_HELMET",
+        "difficulty": 3
+      },
+      {
+        "material": "DIAMOND_HORSE_ARMOR",
+        "difficulty": 4
+      },
+      {
+        "material": "DIAMOND_LEGGINGS",
+        "difficulty": 3
+      },
+      {
+        "material": "ELYTRA",
+        "difficulty": 6
+      },
+      {
+        "material": "GOLDEN_BOOTS",
+        "difficulty": 3
+      },
+      {
+        "material": "GOLDEN_CHESTPLATE",
+        "difficulty": 3
+      },
+      {
+        "material": "GOLDEN_HELMET",
+        "difficulty": 3
+      },
+      {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "difficulty": 4
+      },
+      {
+        "material": "GOLDEN_LEGGINGS",
+        "difficulty": 3
+      },
+      {
+        "material": "IRON_BOOTS",
+        "difficulty": 2
+      },
+      {
+        "material": "IRON_CHESTPLATE",
+        "difficulty": 2
+      },
+      {
+        "material": "IRON_HELMET",
+        "difficulty": 2
+      },
+      {
+        "material": "IRON_HORSE_ARMOR",
+        "difficulty": 4
+      },
+      {
+        "material": "IRON_LEGGINGS",
+        "difficulty": 3
+      },
+      {
+        "material": "LEATHER_BOOTS",
+        "difficulty": 1
+      },
+      {
+        "material": "LEATHER_CHESTPLATE",
+        "difficulty": 1
+      },
+      {
+        "material": "LEATHER_HELMET",
+        "difficulty": 1
+      },
+      {
+        "material": "LEATHER_HORSE_ARMOR",
+        "difficulty": 2
+      },
+      {
+        "material": "LEATHER_LEGGINGS",
+        "difficulty": 2
+      },
+      {
+        "material": "NETHERITE_BOOTS",
+        "difficulty": 5
+      },
+      {
+        "material": "NETHERITE_CHESTPLATE",
+        "difficulty": 5
+      },
+      {
+        "material": "NETHERITE_HELMET",
+        "difficulty": 5
+      },
+      {
+        "material": "NETHERITE_LEGGINGS",
+        "difficulty": 5
+      },
+      {
+        "material": "SHIELD",
+        "difficulty": 2
+      },
+      {
+        "material": "TURTLE_HELMET",
+        "difficulty": 4
+      },
+      {
+        "material": "TURTLE_SCUTE",
+        "difficulty": 4
+      },
+      {
+        "material": "WOLF_ARMOR",
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "group": "ARMOR_TRIMS",
+    "description": "Items used to customize armor.",
+    "values": [
+      {
+        "material": "BOLT_ARMOR_TRIM_SMITHING_TEMPLATE",
+        "difficulty": 4
+      },
+      {
+        "material": "COAST_ARMOR_TRIM_SMITHING_TEMPLATE",
+        "difficulty": 3
+      },
+      {
+        "material": "DUNE_ARMOR_TRIM_SMITHING_TEMPLATE",
+        "difficulty": 4
+      },
+      {
+        "material": "EYE_ARMOR_TRIM_SMITHING_TEMPLATE",
+        "difficulty": 4
+      },
+      {
+        "material": "FLOW_ARMOR_TRIM_SMITHING_TEMPLATE",
+        "difficulty": 4
+      },
+      {
+        "material": "HOST_ARMOR_TRIM_SMITHING_TEMPLATE",
+        "difficulty": 4
+      },
+      {
+        "material": "NETHERITE_UPGRADE_SMITHING_TEMPLATE",
+        "difficulty": 4
+      },
+      {
+        "material": "RAISER_ARMOR_TRIM_SMITHING_TEMPLATE",
+        "difficulty": 4
+      },
+      {
+        "material": "RIB_ARMOR_TRIM_SMITHING_TEMPLATE",
+        "difficulty": 4
+      },
+      {
+        "material": "SENTRY_ARMOR_TRIM_SMITHING_TEMPLATE",
+        "difficulty": 4
+      },
+      {
+        "material": "SHAPER_ARMOR_TRIM_SMITHING_TEMPLATE",
+        "difficulty": 4
+      },
+      {
+        "material": "SILENCE_ARMOR_TRIM_SMITHING_TEMPLATE",
+        "difficulty": 6
+      },
+      {
+        "material": "SNOUT_ARMOR_TRIM_SMITHING_TEMPLATE",
+        "difficulty": 4
+      },
+      {
+        "material": "SPIRE_ARMOR_TRIM_SMITHING_TEMPLATE",
+        "difficulty": 6
+      },
+      {
+        "material": "TIDE_ARMOR_TRIM_SMITHING_TEMPLATE",
+        "difficulty": 4
+      },
+      {
+        "material": "VEX_ARMOR_TRIM_SMITHING_TEMPLATE",
+        "difficulty": 6
+      },
+      {
+        "material": "WARD_ARMOR_TRIM_SMITHING_TEMPLATE",
+        "difficulty": 6
+      },
+      {
+        "material": "WAYFINDER_ARMOR_TRIM_SMITHING_TEMPLATE",
+        "difficulty": 4
+      },
+      {
+        "material": "WILD_ARMOR_TRIM_SMITHING_TEMPLATE",
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "group": "RAILS",
+    "description": "All types of rails for minecart transportation.",
+    "values": [
+      {
+        "material": "ACTIVATOR_RAIL",
+        "difficulty": 3
+      },
+      {
+        "material": "DETECTOR_RAIL",
+        "difficulty": 3
+      },
+      {
+        "material": "POWERED_RAIL",
+        "difficulty": 3
+      },
+      {
+        "material": "RAIL",
+        "difficulty": 2
+      }
+    ]
+  },
+  {
+    "group": "MINECARTS",
+    "description": "Train-like entities for transport on rails.",
+    "values": [
+      {
+        "material": "CHEST_MINECART",
+        "difficulty": 2
+      },
+      {
+        "material": "FURNACE_MINECART",
+        "difficulty": 3
+      },
+      {
+        "material": "HOPPER_MINECART",
+        "difficulty": 2
+      },
+      {
+        "material": "MINECART",
+        "difficulty": 2
+      },
+      {
+        "material": "TNT_MINECART",
+        "difficulty": 3
+      }
+    ]
+  },
+  {
+    "group": "POTTERY_SHERDS",
+    "description": "Fragments that can be used to decorate pots.",
+    "values": [
+      {
+        "material": "ANGLER_POTTERY_SHERD",
+        "difficulty": 4
+      },
+      {
+        "material": "ARCHER_POTTERY_SHERD",
+        "difficulty": 4
+      },
+      {
+        "material": "ARMS_UP_POTTERY_SHERD",
+        "difficulty": 4
+      },
+      {
+        "material": "BLADE_POTTERY_SHERD",
+        "difficulty": 4
+      },
+      {
+        "material": "BREWER_POTTERY_SHERD",
+        "difficulty": 4
+      },
+      {
+        "material": "BURN_POTTERY_SHERD",
+        "difficulty": 4
+      },
+      {
+        "material": "DANGER_POTTERY_SHERD",
+        "difficulty": 4
+      },
+      {
+        "material": "EXPLORER_POTTERY_SHERD",
+        "difficulty": 4
+      },
+      {
+        "material": "FLOW_POTTERY_SHERD",
+        "difficulty": 4
+      },
+      {
+        "material": "FRIEND_POTTERY_SHERD",
+        "difficulty": 4
+      },
+      {
+        "material": "GUSTER_POTTERY_SHERD",
+        "difficulty": 4
+      },
+      {
+        "material": "HEART_POTTERY_SHERD",
+        "difficulty": 4
+      },
+      {
+        "material": "HEARTBREAK_POTTERY_SHERD",
+        "difficulty": 4
+      },
+      {
+        "material": "HOWL_POTTERY_SHERD",
+        "difficulty": 4
+      },
+      {
+        "material": "MINER_POTTERY_SHERD",
+        "difficulty": 4
+      },
+      {
+        "material": "MOURNER_POTTERY_SHERD",
+        "difficulty": 4
+      },
+      {
+        "material": "PLENTY_POTTERY_SHERD",
+        "difficulty": 4
+      },
+      {
+        "material": "PRIZE_POTTERY_SHERD",
+        "difficulty": 4
+      },
+      {
+        "material": "SCRAPE_POTTERY_SHERD",
+        "difficulty": 4
+      },
+      {
+        "material": "SHEAF_POTTERY_SHERD",
+        "difficulty": 4
+      },
+      {
+        "material": "SHELTER_POTTERY_SHERD",
+        "difficulty": 4
+      },
+      {
+        "material": "SKULL_POTTERY_SHERD",
+        "difficulty": 4
+      },
+      {
+        "material": "SNORT_POTTERY_SHERD",
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "group": "MUSIC_DISCS",
+    "description": "Items that can be played in jukeboxes.",
+    "values": [
+      {
+        "material": "DISC_FRAGMENT_5",
+        "difficulty": 6
+      },
+      {
+        "material": "MUSIC_DISC_11",
+        "difficulty": 4
+      },
+      {
+        "material": "MUSIC_DISC_13",
+        "difficulty": 4
+      },
+      {
+        "material": "MUSIC_DISC_5",
+        "difficulty": 6
+      },
+      {
+        "material": "MUSIC_DISC_BLOCKS",
+        "difficulty": 3
+      },
+      {
+        "material": "MUSIC_DISC_CAT",
+        "difficulty": 3
+      },
+      {
+        "material": "MUSIC_DISC_CHIRP",
+        "difficulty": 4
+      },
+      {
+        "material": "MUSIC_DISC_CREATOR",
+        "difficulty": 6
+      },
+      {
+        "material": "MUSIC_DISC_CREATOR_MUSIC_BOX",
+        "difficulty": 6
+      },
+      {
+        "material": "MUSIC_DISC_FAR",
+        "difficulty": 4
+      },
+      {
+        "material": "MUSIC_DISC_LAVA_CHICKEN",
+        "difficulty": 6
+      },
+      {
+        "material": "MUSIC_DISC_MALL",
+        "difficulty": 6
+      },
+      {
+        "material": "MUSIC_DISC_MELLOHI",
+        "difficulty": 3
+      },
+      {
+        "material": "MUSIC_DISC_OTHERSIDE",
+        "difficulty": 6
+      },
+      {
+        "material": "MUSIC_DISC_PIGSTEP",
+        "difficulty": 4
+      },
+      {
+        "material": "MUSIC_DISC_PRECIPICE",
+        "difficulty": 4
+      },
+      {
+        "material": "MUSIC_DISC_RELIC",
+        "difficulty": 4
+      },
+      {
+        "material": "MUSIC_DISC_STAL",
+        "difficulty": 3
+      },
+      {
+        "material": "MUSIC_DISC_STRAD",
+        "difficulty": 4
+      },
+      {
+        "material": "MUSIC_DISC_TEARS",
+        "difficulty": 4
+      },
+      {
+        "material": "MUSIC_DISC_WAIT",
+        "difficulty": 4
+      },
+      {
+        "material": "MUSIC_DISC_WARD",
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "group": "BANNER_PATTERNS",
+    "description": "Items used to create complex banner designs.",
+    "values": [
+      {
+        "material": "BORDURE_INDENTED_BANNER_PATTERN",
+        "difficulty": 2
+      },
+      {
+        "material": "CREEPER_BANNER_PATTERN",
+        "difficulty": 6
+      },
+      {
+        "material": "FIELD_MASONED_BANNER_PATTERN",
+        "difficulty": 2
+      },
+      {
+        "material": "FLOW_BANNER_PATTERN",
+        "difficulty": 6
+      },
+      {
+        "material": "FLOWER_BANNER_PATTERN",
+        "difficulty": 4
+      },
+      {
+        "material": "GLOBE_BANNER_PATTERN",
+        "difficulty": 3
+      },
+      {
+        "material": "GUSTER_BANNER_PATTERN",
+        "difficulty": 6
+      },
+      {
+        "material": "MOJANG_BANNER_PATTERN",
+        "difficulty": 6
+      },
+      {
+        "material": "PIGLIN_BANNER_PATTERN",
+        "difficulty": 4
+      },
+      {
+        "material": "SKULL_BANNER_PATTERN",
+        "difficulty": 6
+      }
+    ]
+  },
+  {
+    "group": "WOOL",
+    "description": "Blocks of wool in every color.",
+    "values": [
+      {
+        "material": "BLACK_WOOL",
+        "difficulty": 1
+      },
+      {
+        "material": "BLUE_WOOL",
+        "difficulty": 1
+      },
+      {
+        "material": "BROWN_WOOL",
+        "difficulty": 1
+      },
+      {
+        "material": "CYAN_WOOL",
+        "difficulty": 1
+      },
+      {
+        "material": "GRAY_WOOL",
+        "difficulty": 1
+      },
+      {
+        "material": "GREEN_WOOL",
+        "difficulty": 1
+      },
+      {
+        "material": "LIGHT_BLUE_WOOL",
+        "difficulty": 1
+      },
+      {
+        "material": "LIGHT_GRAY_WOOL",
+        "difficulty": 1
+      },
+      {
+        "material": "LIME_WOOL",
+        "difficulty": 1
+      },
+      {
+        "material": "MAGENTA_WOOL",
+        "difficulty": 1
+      },
+      {
+        "material": "ORANGE_WOOL",
+        "difficulty": 1
+      },
+      {
+        "material": "PINK_WOOL",
+        "difficulty": 1
+      },
+      {
+        "material": "PURPLE_WOOL",
+        "difficulty": 1
+      },
+      {
+        "material": "RED_WOOL",
+        "difficulty": 1
+      },
+      {
+        "material": "WHITE_WOOL",
+        "difficulty": 1
+      },
+      {
+        "material": "YELLOW_WOOL",
+        "difficulty": 1
+      },
+      {
+        "material": "BLACK_CARPET",
+        "difficulty": 1
+      },
+      {
+        "material": "BLUE_CARPET",
+        "difficulty": 1
+      },
+      {
+        "material": "BROWN_CARPET",
+        "difficulty": 1
+      },
+      {
+        "material": "CYAN_CARPET",
+        "difficulty": 1
+      },
+      {
+        "material": "GRAY_CARPET",
+        "difficulty": 1
+      },
+      {
+        "material": "GREEN_CARPET",
+        "difficulty": 1
+      },
+      {
+        "material": "LIGHT_BLUE_CARPET",
+        "difficulty": 1
+      },
+      {
+        "material": "LIGHT_GRAY_CARPET",
+        "difficulty": 2
+      },
+      {
+        "material": "LIME_CARPET",
+        "difficulty": 2
+      },
+      {
+        "material": "MAGENTA_CARPET",
+        "difficulty": 2
+      },
+      {
+        "material": "ORANGE_CARPET",
+        "difficulty": 1
+      },
+      {
+        "material": "PINK_CARPET",
+        "difficulty": 1
+      },
+      {
+        "material": "PURPLE_CARPET",
+        "difficulty": 1
+      },
+      {
+        "material": "RED_CARPET",
+        "difficulty": 1
+      },
+      {
+        "material": "WHITE_CARPET",
+        "difficulty": 1
+      },
+      {
+        "material": "YELLOW_CARPET",
+        "difficulty": 1
+      }
+    ]
+  },
+  {
+    "group": "TERRACOTTA",
+    "description": "Hardened clay blocks in various colors.",
+    "values": [
+      {
+        "material": "BLACK_TERRACOTTA",
+        "difficulty": 4
+      },
+      {
+        "material": "BLUE_TERRACOTTA",
+        "difficulty": 4
+      },
+      {
+        "material": "BROWN_TERRACOTTA",
+        "difficulty": 2
+      },
+      {
+        "material": "CYAN_TERRACOTTA",
+        "difficulty": 2
+      },
+      {
+        "material": "GRAY_TERRACOTTA",
+        "difficulty": 4
+      },
+      {
+        "material": "GREEN_TERRACOTTA",
+        "difficulty": 4
+      },
+      {
+        "material": "LIGHT_BLUE_TERRACOTTA",
+        "difficulty": 4
+      },
+      {
+        "material": "LIGHT_GRAY_TERRACOTTA",
+        "difficulty": 2
+      },
+      {
+        "material": "LIME_TERRACOTTA",
+        "difficulty": 4
+      },
+      {
+        "material": "MAGENTA_TERRACOTTA",
+        "difficulty": 4
+      },
+      {
+        "material": "ORANGE_TERRACOTTA",
+        "difficulty": 4
+      },
+      {
+        "material": "PINK_TERRACOTTA",
+        "difficulty": 4
+      },
+      {
+        "material": "PURPLE_TERRACOTTA",
+        "difficulty": 2
+      },
+      {
+        "material": "RED_TERRACOTTA",
+        "difficulty": 4
+      },
+      {
+        "material": "TERRACOTTA",
+        "difficulty": 1
+      },
+      {
+        "material": "WHITE_TERRACOTTA",
+        "difficulty": 2
+      },
+      {
+        "material": "YELLOW_TERRACOTTA",
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "group": "GLAZED_TERRACOTTA",
+    "description": "Decorative blocks with intricate patterns.",
+    "values": [
+      {
+        "material": "BLACK_GLAZED_TERRACOTTA",
+        "difficulty": 2
+      },
+      {
+        "material": "BLUE_GLAZED_TERRACOTTA",
+        "difficulty": 2
+      },
+      {
+        "material": "BROWN_GLAZED_TERRACOTTA",
+        "difficulty": 2
+      },
+      {
+        "material": "CYAN_GLAZED_TERRACOTTA",
+        "difficulty": 2
+      },
+      {
+        "material": "GRAY_GLAZED_TERRACOTTA",
+        "difficulty": 2
+      },
+      {
+        "material": "GREEN_GLAZED_TERRACOTTA",
+        "difficulty": 2
+      },
+      {
+        "material": "LIGHT_BLUE_GLAZED_TERRACOTTA",
+        "difficulty": 2
+      },
+      {
+        "material": "LIGHT_GRAY_GLAZED_TERRACOTTA",
+        "difficulty": 3
+      },
+      {
+        "material": "LIME_GLAZED_TERRACOTTA",
+        "difficulty": 2
+      },
+      {
+        "material": "MAGENTA_GLAZED_TERRACOTTA",
+        "difficulty": 3
+      },
+      {
+        "material": "ORANGE_GLAZED_TERRACOTTA",
+        "difficulty": 2
+      },
+      {
+        "material": "PINK_GLAZED_TERRACOTTA",
+        "difficulty": 2
+      },
+      {
+        "material": "PURPLE_GLAZED_TERRACOTTA",
+        "difficulty": 2
+      },
+      {
+        "material": "RED_GLAZED_TERRACOTTA",
+        "difficulty": 2
+      },
+      {
+        "material": "WHITE_GLAZED_TERRACOTTA",
+        "difficulty": 2
+      },
+      {
+        "material": "YELLOW_GLAZED_TERRACOTTA",
+        "difficulty": 2
+      }
+    ]
+  },
+  {
+    "group": "CONCRETE",
+    "description": "Solid-colored, hard blocks and their powder variants.",
+    "values": [
+      {
+        "material": "BLACK_CONCRETE",
+        "difficulty": 2
+      },
+      {
+        "material": "BLACK_CONCRETE_POWDER",
+        "difficulty": 2
+      },
+      {
+        "material": "BLUE_CONCRETE",
+        "difficulty": 2
+      },
+      {
+        "material": "BLUE_CONCRETE_POWDER",
+        "difficulty": 2
+      },
+      {
+        "material": "BROWN_CONCRETE",
+        "difficulty": 2
+      },
+      {
+        "material": "BROWN_CONCRETE_POWDER",
+        "difficulty": 2
+      },
+      {
+        "material": "CYAN_CONCRETE",
+        "difficulty": 2
+      },
+      {
+        "material": "CYAN_CONCRETE_POWDER",
+        "difficulty": 2
+      },
+      {
+        "material": "GRAY_CONCRETE",
+        "difficulty": 2
+      },
+      {
+        "material": "GRAY_CONCRETE_POWDER",
+        "difficulty": 2
+      },
+      {
+        "material": "GREEN_CONCRETE",
+        "difficulty": 2
+      },
+      {
+        "material": "GREEN_CONCRETE_POWDER",
+        "difficulty": 2
+      },
+      {
+        "material": "LIGHT_BLUE_CONCRETE",
+        "difficulty": 2
+      },
+      {
+        "material": "LIGHT_BLUE_CONCRETE_POWDER",
+        "difficulty": 2
+      },
+      {
+        "material": "LIGHT_GRAY_CONCRETE",
+        "difficulty": 2
+      },
+      {
+        "material": "LIGHT_GRAY_CONCRETE_POWDER",
+        "difficulty": 2
+      },
+      {
+        "material": "LIME_CONCRETE",
+        "difficulty": 2
+      },
+      {
+        "material": "LIME_CONCRETE_POWDER",
+        "difficulty": 2
+      },
+      {
+        "material": "MAGENTA_CONCRETE",
+        "difficulty": 2
+      },
+      {
+        "material": "MAGENTA_CONCRETE_POWDER",
+        "difficulty": 2
+      },
+      {
+        "material": "ORANGE_CONCRETE",
+        "difficulty": 2
+      },
+      {
+        "material": "ORANGE_CONCRETE_POWDER",
+        "difficulty": 2
+      },
+      {
+        "material": "PINK_CONCRETE",
+        "difficulty": 2
+      },
+      {
+        "material": "PINK_CONCRETE_POWDER",
+        "difficulty": 2
+      },
+      {
+        "material": "PURPLE_CONCRETE",
+        "difficulty": 2
+      },
+      {
+        "material": "PURPLE_CONCRETE_POWDER",
+        "difficulty": 2
+      },
+      {
+        "material": "RED_CONCRETE",
+        "difficulty": 2
+      },
+      {
+        "material": "RED_CONCRETE_POWDER",
+        "difficulty": 2
+      },
+      {
+        "material": "WHITE_CONCRETE",
+        "difficulty": 2
+      },
+      {
+        "material": "WHITE_CONCRETE_POWDER",
+        "difficulty": 2
+      },
+      {
+        "material": "YELLOW_CONCRETE",
+        "difficulty": 2
+      },
+      {
+        "material": "YELLOW_CONCRETE_POWDER",
+        "difficulty": 2
+      }
+    ]
+  },
+  {
+    "group": "STAINED_GLASS",
+    "description": "Transparent blocks and panes in various colors.",
+    "values": [
+      {
+        "material": "BLACK_STAINED_GLASS",
+        "difficulty": 2
+      },
+      {
+        "material": "BLACK_STAINED_GLASS_PANE",
+        "difficulty": 2
+      },
+      {
+        "material": "BLUE_STAINED_GLASS",
+        "difficulty": 2
+      },
+      {
+        "material": "BLUE_STAINED_GLASS_PANE",
+        "difficulty": 3
+      },
+      {
+        "material": "BROWN_STAINED_GLASS",
+        "difficulty": 2
+      },
+      {
+        "material": "BROWN_STAINED_GLASS_PANE",
+        "difficulty": 2
+      },
+      {
+        "material": "CYAN_STAINED_GLASS",
+        "difficulty": 2
+      },
+      {
+        "material": "CYAN_STAINED_GLASS_PANE",
+        "difficulty": 2
+      },
+      {
+        "material": "GRAY_STAINED_GLASS",
+        "difficulty": 2
+      },
+      {
+        "material": "GRAY_STAINED_GLASS_PANE",
+        "difficulty": 2
+      },
+      {
+        "material": "GREEN_STAINED_GLASS",
+        "difficulty": 5
+      },
+      {
+        "material": "GREEN_STAINED_GLASS_PANE",
+        "difficulty": 2
+      },
+      {
+        "material": "LIGHT_BLUE_STAINED_GLASS",
+        "difficulty": 2
+      },
+      {
+        "material": "LIGHT_BLUE_STAINED_GLASS_PANE",
+        "difficulty": 2
+      },
+      {
+        "material": "LIGHT_GRAY_STAINED_GLASS",
+        "difficulty": 2
+      },
+      {
+        "material": "LIGHT_GRAY_STAINED_GLASS_PANE",
+        "difficulty": 2
+      },
+      {
+        "material": "LIME_STAINED_GLASS",
+        "difficulty": 2
+      },
+      {
+        "material": "LIME_STAINED_GLASS_PANE",
+        "difficulty": 2
+      },
+      {
+        "material": "MAGENTA_STAINED_GLASS",
+        "difficulty": 2
+      },
+      {
+        "material": "MAGENTA_STAINED_GLASS_PANE",
+        "difficulty": 2
+      },
+      {
+        "material": "ORANGE_STAINED_GLASS",
+        "difficulty": 2
+      },
+      {
+        "material": "ORANGE_STAINED_GLASS_PANE",
+        "difficulty": 2
+      },
+      {
+        "material": "PINK_STAINED_GLASS",
+        "difficulty": 5
+      },
+      {
+        "material": "PINK_STAINED_GLASS_PANE",
+        "difficulty": 2
+      },
+      {
+        "material": "PURPLE_STAINED_GLASS",
+        "difficulty": 2
+      },
+      {
+        "material": "PURPLE_STAINED_GLASS_PANE",
+        "difficulty": 2
+      },
+      {
+        "material": "RED_STAINED_GLASS",
+        "difficulty": 5
+      },
+      {
+        "material": "RED_STAINED_GLASS_PANE",
+        "difficulty": 2
+      },
+      {
+        "material": "WHITE_STAINED_GLASS",
+        "difficulty": 2
+      },
+      {
+        "material": "WHITE_STAINED_GLASS_PANE",
+        "difficulty": 2
+      },
+      {
+        "material": "YELLOW_STAINED_GLASS",
+        "difficulty": 2
+      },
+      {
+        "material": "YELLOW_STAINED_GLASS_PANE",
+        "difficulty": 2
+      }
+    ]
+  },
+  {
+    "group": "DYES",
+    "description": "Items used to change the color of various blocks and items.",
+    "values": [
+      {
+        "material": "BLACK_DYE",
+        "difficulty": 1
+      },
+      {
+        "material": "BLUE_DYE",
+        "difficulty": 1
+      },
+      {
+        "material": "BROWN_DYE",
+        "difficulty": 4
+      },
+      {
+        "material": "CYAN_DYE",
+        "difficulty": 4
+      },
+      {
+        "material": "GRAY_DYE",
+        "difficulty": 1
+      },
+      {
+        "material": "GREEN_DYE",
+        "difficulty": 4
+      },
+      {
+        "material": "LIGHT_BLUE_DYE",
+        "difficulty": 2
+      },
+      {
+        "material": "LIGHT_GRAY_DYE",
+        "difficulty": 2
+      },
+      {
+        "material": "LIME_DYE",
+        "difficulty": 4
+      },
+      {
+        "material": "MAGENTA_DYE",
+        "difficulty": 3
+      },
+      {
+        "material": "ORANGE_DYE",
+        "difficulty": 1
+      },
+      {
+        "material": "PINK_DYE",
+        "difficulty": 2
+      },
+      {
+        "material": "PURPLE_DYE",
+        "difficulty": 2
+      },
+      {
+        "material": "RED_DYE",
+        "difficulty": 1
+      },
+      {
+        "material": "WHITE_DYE",
+        "difficulty": 1
+      },
+      {
+        "material": "YELLOW_DYE",
+        "difficulty": 1
+      }
+    ]
+  },
+  {
+    "group": "BEDS",
+    "description": "Blocks that allow the player to sleep and set their spawn point.",
+    "values": [
+      {
+        "material": "BLACK_BED",
+        "difficulty": 1
+      },
+      {
+        "material": "BLUE_BED",
+        "difficulty": 1
+      },
+      {
+        "material": "BROWN_BED",
+        "difficulty": 1
+      },
+      {
+        "material": "CYAN_BED",
+        "difficulty": 1
+      },
+      {
+        "material": "GRAY_BED",
+        "difficulty": 1
+      },
+      {
+        "material": "GREEN_BED",
+        "difficulty": 1
+      },
+      {
+        "material": "LIGHT_BLUE_BED",
+        "difficulty": 1
+      },
+      {
+        "material": "LIGHT_GRAY_BED",
+        "difficulty": 1
+      },
+      {
+        "material": "LIME_BED",
+        "difficulty": 1
+      },
+      {
+        "material": "MAGENTA_BED",
+        "difficulty": 2
+      },
+      {
+        "material": "ORANGE_BED",
+        "difficulty": 1
+      },
+      {
+        "material": "PINK_BED",
+        "difficulty": 1
+      },
+      {
+        "material": "PURPLE_BED",
+        "difficulty": 2
+      },
+      {
+        "material": "RED_BED",
+        "difficulty": 1
+      },
+      {
+        "material": "WHITE_BED",
+        "difficulty": 1
+      },
+      {
+        "material": "YELLOW_BED",
+        "difficulty": 1
+      }
+    ]
+  },
+  {
+    "group": "BANNERS",
+    "description": "Decorative blocks that can be customized with patterns and colors.",
+    "values": [
+      {
+        "material": "BLACK_BANNER",
+        "difficulty": 1
+      },
+      {
+        "material": "BLUE_BANNER",
+        "difficulty": 2
+      },
+      {
+        "material": "BROWN_BANNER",
+        "difficulty": 2
+      },
+      {
+        "material": "CYAN_BANNER",
+        "difficulty": 1
+      },
+      {
+        "material": "GRAY_BANNER",
+        "difficulty": 2
+      },
+      {
+        "material": "GREEN_BANNER",
+        "difficulty": 1
+      },
+      {
+        "material": "LIGHT_BLUE_BANNER",
+        "difficulty": 2
+      },
+      {
+        "material": "LIGHT_GRAY_BANNER",
+        "difficulty": 1
+      },
+      {
+        "material": "LIME_BANNER",
+        "difficulty": 1
+      },
+      {
+        "material": "MAGENTA_BANNER",
+        "difficulty": 2
+      },
+      {
+        "material": "ORANGE_BANNER",
+        "difficulty": 1
+      },
+      {
+        "material": "PINK_BANNER",
+        "difficulty": 2
+      },
+      {
+        "material": "PURPLE_BANNER",
+        "difficulty": 2
+      },
+      {
+        "material": "RED_BANNER",
+        "difficulty": 2
+      },
+      {
+        "material": "WHITE_BANNER",
+        "difficulty": 1
+      },
+      {
+        "material": "YELLOW_BANNER",
+        "difficulty": 1
+      }
+    ]
+  },
+  {
+    "group": "CANDLES",
+    "description": "Light-emitting blocks.",
+    "values": [
+      {
+        "material": "BLACK_CANDLE",
+        "difficulty": 3
+      },
+      {
+        "material": "BLUE_CANDLE",
+        "difficulty": 3
+      },
+      {
+        "material": "BROWN_CANDLE",
+        "difficulty": 3
+      },
+      {
+        "material": "CANDLE",
+        "difficulty": 3
+      },
+      {
+        "material": "CYAN_CANDLE",
+        "difficulty": 3
+      },
+      {
+        "material": "GRAY_CANDLE",
+        "difficulty": 3
+      },
+      {
+        "material": "GREEN_CANDLE",
+        "difficulty": 3
+      },
+      {
+        "material": "LIGHT_BLUE_CANDLE",
+        "difficulty": 3
+      },
+      {
+        "material": "LIGHT_GRAY_CANDLE",
+        "difficulty": 3
+      },
+      {
+        "material": "LIME_CANDLE",
+        "difficulty": 3
+      },
+      {
+        "material": "MAGENTA_CANDLE",
+        "difficulty": 3
+      },
+      {
+        "material": "ORANGE_CANDLE",
+        "difficulty": 3
+      },
+      {
+        "material": "PINK_CANDLE",
+        "difficulty": 3
+      },
+      {
+        "material": "PURPLE_CANDLE",
+        "difficulty": 3
+      },
+      {
+        "material": "RED_CANDLE",
+        "difficulty": 3
+      },
+      {
+        "material": "WHITE_CANDLE",
+        "difficulty": 3
+      },
+      {
+        "material": "YELLOW_CANDLE",
+        "difficulty": 3
+      }
+    ]
+  },
+  {
+    "group": "SHULKER_BOXES",
+    "description": "Portable chests that keep their inventory when broken.",
+    "values": [
+      {
+        "material": "BLACK_SHULKER_BOX",
+        "difficulty": 6
+      },
+      {
+        "material": "BLUE_SHULKER_BOX",
+        "difficulty": 6
+      },
+      {
+        "material": "BROWN_SHULKER_BOX",
+        "difficulty": 6
+      },
+      {
+        "material": "CYAN_SHULKER_BOX",
+        "difficulty": 6
+      },
+      {
+        "material": "GRAY_SHULKER_BOX",
+        "difficulty": 6
+      },
+      {
+        "material": "GREEN_SHULKER_BOX",
+        "difficulty": 6
+      },
+      {
+        "material": "LIGHT_BLUE_SHULKER_BOX",
+        "difficulty": 6
+      },
+      {
+        "material": "LIGHT_GRAY_SHULKER_BOX",
+        "difficulty": 6
+      },
+      {
+        "material": "LIME_SHULKER_BOX",
+        "difficulty": 6
+      },
+      {
+        "material": "MAGENTA_SHULKER_BOX",
+        "difficulty": 6
+      },
+      {
+        "material": "ORANGE_SHULKER_BOX",
+        "difficulty": 6
+      },
+      {
+        "material": "PINK_SHULKER_BOX",
+        "difficulty": 6
+      },
+      {
+        "material": "PURPLE_SHULKER_BOX",
+        "difficulty": 6
+      },
+      {
+        "material": "RED_SHULKER_BOX",
+        "difficulty": 6
+      },
+      {
+        "material": "SHULKER_BOX",
+        "difficulty": 6
+      },
+      {
+        "material": "WHITE_SHULKER_BOX",
+        "difficulty": 6
+      },
+      {
+        "material": "YELLOW_SHULKER_BOX",
+        "difficulty": 6
+      }
+    ]
+  },
+  {
+    "group": "FOOD",
+    "description": "Items that can be eaten by the player.",
+    "values": [
+      {
+        "material": "APPLE",
+        "difficulty": 1
+      },
+      {
+        "material": "BAKED_POTATO",
+        "difficulty": 1
+      },
+      {
+        "material": "BEEF",
+        "difficulty": 2
+      },
+      {
+        "material": "BEETROOT",
+        "difficulty": 4
+      },
+      {
+        "material": "BEETROOT_SOUP",
+        "difficulty": 2
+      },
+      {
+        "material": "BREAD",
+        "difficulty": 1
+      },
+      {
+        "material": "CHICKEN",
+        "difficulty": 1
+      },
+      {
+        "material": "CHORUS_FRUIT",
+        "difficulty": 5
+      },
+      {
+        "material": "POPPED_CHORUS_FRUIT",
+        "difficulty": 5
+      },
+      {
+        "material": "COD",
+        "difficulty": 1
+      },
+      {
+        "material": "COOKED_BEEF",
+        "difficulty": 1
+      },
+      {
+        "material": "COOKED_CHICKEN",
+        "difficulty": 1
+      },
+      {
+        "material": "COOKED_COD",
+        "difficulty": 2
+      },
+      {
+        "material": "COOKED_MUTTON",
+        "difficulty": 1
+      },
+      {
+        "material": "COOKED_PORKCHOP",
+        "difficulty": 1
+      },
+      {
+        "material": "COOKED_RABBIT",
+        "difficulty": 2
+      },
+      {
+        "material": "COOKED_SALMON",
+        "difficulty": 2
+      },
+      {
+        "material": "COOKIE",
+        "difficulty": 4
+      },
+      {
+        "material": "DRIED_KELP",
+        "difficulty": 1
+      },
+      {
+        "material": "ENCHANTED_GOLDEN_APPLE",
+        "difficulty": 6
+      },
+      {
+        "material": "GLISTERING_MELON_SLICE",
+        "difficulty": 3
+      },
+      {
+        "material": "GLOW_BERRIES",
+        "difficulty": 4
+      },
+      {
+        "material": "GOLDEN_APPLE",
+        "difficulty": 3
+      },
+      {
+        "material": "GOLDEN_CARROT",
+        "difficulty": 3
+      },
+      {
+        "material": "HONEY_BOTTLE",
+        "difficulty": 3
+      },
+      {
+        "material": "MELON_SLICE",
+        "difficulty": 3
+      },
+      {
+        "material": "MUSHROOM_STEW",
+        "difficulty": 2
+      },
+      {
+        "material": "MUTTON",
+        "difficulty": 2
+      },
+      {
+        "material": "POISONOUS_POTATO",
+        "difficulty": 3
+      },
+      {
+        "material": "PORKCHOP",
+        "difficulty": 1
+      },
+      {
+        "material": "POTATO",
+        "difficulty": 1
+      },
+      {
+        "material": "PUFFERFISH",
+        "difficulty": 1
+      },
+      {
+        "material": "PUMPKIN_PIE",
+        "difficulty": 2
+      },
+      {
+        "material": "RABBIT",
+        "difficulty": 2
+      },
+      {
+        "material": "RABBIT_STEW",
+        "difficulty": 3
+      },
+      {
+        "material": "ROTTEN_FLESH",
+        "difficulty": 1
+      },
+      {
+        "material": "SALMON",
+        "difficulty": 1
+      },
+      {
+        "material": "SPIDER_EYE",
+        "difficulty": 2
+      },
+      {
+        "material": "SUSPICIOUS_STEW",
+        "difficulty": 2
+      },
+      {
+        "material": "SWEET_BERRIES",
+        "difficulty": 4
+      },
+      {
+        "material": "TROPICAL_FISH",
+        "difficulty": 2
+      }
+    ]
+  },
+  {
+    "group": "PLANTS",
+    "description": "Naturally occurring vegetation, flowers, and crops.",
+    "values": [
+      {
+        "material": "ALLIUM",
+        "difficulty": 4
+      },
+      {
+        "material": "AZALEA",
+        "difficulty": 4
+      },
+      {
+        "material": "AZALEA_LEAVES",
+        "difficulty": 2
+      },
+      {
+        "material": "AZURE_BLUET",
+        "difficulty": 4
+      },
+      {
+        "material": "BEETROOT_SEEDS",
+        "difficulty": 1
+      },
+      {
+        "material": "BIG_DRIPLEAF",
+        "difficulty": 4
+      },
+      {
+        "material": "BLUE_ORCHID",
+        "difficulty": 4
+      },
+      {
+        "material": "BUSH",
+        "difficulty": 2
+      },
+      {
+        "material": "CACTUS",
+        "difficulty": 4
+      },
+      {
+        "material": "CACTUS_FLOWER",
+        "difficulty": 4
+      },
+      {
+        "material": "CAKE",
+        "difficulty": 2
+      },
+      {
+        "material": "CARROT",
+        "difficulty": 2
+      },
+      {
+        "material": "CARROT_ON_A_STICK",
+        "difficulty": 2
+      },
+      {
+        "material": "CARVED_PUMPKIN",
+        "difficulty": 2
+      },
+      {
+        "material": "CLOSED_EYEBLOSSOM",
+        "difficulty": 4
+      },
+      {
+        "material": "COCOA_BEANS",
+        "difficulty": 4
+      },
+      {
+        "material": "CORNFLOWER",
+        "difficulty": 1
+      },
+      {
+        "material": "CRIMSON_FUNGUS",
+        "difficulty": 4
+      },
+      {
+        "material": "CRIMSON_NYLIUM",
+        "difficulty": 5
+      },
+      {
+        "material": "CRIMSON_ROOTS",
+        "difficulty": 4
+      },
+      {
+        "material": "DANDELION",
+        "difficulty": 1
+      },
+      {
+        "material": "DEAD_BUSH",
+        "difficulty": 4
+      },
+      {
+        "material": "FERN",
+        "difficulty": 4
+      },
+      {
+        "material": "FIREFLY_BUSH",
+        "difficulty": 2
+      },
+      {
+        "material": "FLOWERING_AZALEA",
+        "difficulty": 4
+      },
+      {
+        "material": "FLOWERING_AZALEA_LEAVES",
+        "difficulty": 5
+      },
+      {
+        "material": "HANGING_ROOTS",
+        "difficulty": 4
+      },
+      {
+        "material": "KELP",
+        "difficulty": 1
+      },
+      {
+        "material": "LARGE_FERN",
+        "difficulty": 4
+      },
+      {
+        "material": "LEAF_LITTER",
+        "difficulty": 1
+      },
+      {
+        "material": "LILAC",
+        "difficulty": 1
+      },
+      {
+        "material": "LILY_OF_THE_VALLEY",
+        "difficulty": 1
+      },
+      {
+        "material": "LILY_PAD",
+        "difficulty": 1
+      },
+      {
+        "material": "MELON",
+        "difficulty": 4
+      },
+      {
+        "material": "MELON_SEEDS",
+        "difficulty": 3
+      },
+      {
+        "material": "NETHER_SPROUTS",
+        "difficulty": 4
+      },
+      {
+        "material": "NETHER_WART",
+        "difficulty": 4
+      },
+      {
+        "material": "NETHER_WART_BLOCK",
+        "difficulty": 4
+      },
+      {
+        "material": "OPEN_EYEBLOSSOM",
+        "difficulty": 4
+      },
+      {
+        "material": "ORANGE_TULIP",
+        "difficulty": 4
+      },
+      {
+        "material": "OXEYE_DAISY",
+        "difficulty": 1
+      },
+      {
+        "material": "PALE_HANGING_MOSS",
+        "difficulty": 4
+      },
+      {
+        "material": "PEONY",
+        "difficulty": 1
+      },
+      {
+        "material": "PINK_PETALS",
+        "difficulty": 4
+      },
+      {
+        "material": "PINK_TULIP",
+        "difficulty": 4
+      },
+      {
+        "material": "PITCHER_PLANT",
+        "difficulty": 4
+      },
+      {
+        "material": "PITCHER_POD",
+        "difficulty": 4
+      },
+      {
+        "material": "POPPY",
+        "difficulty": 1
+      },
+      {
+        "material": "PUMPKIN",
+        "difficulty": 4
+      },
+      {
+        "material": "PUMPKIN_SEEDS",
+        "difficulty": 1
+      },
+      {
+        "material": "RED_TULIP",
+        "difficulty": 4
+      },
+      {
+        "material": "ROOTED_DIRT",
+        "difficulty": 4
+      },
+      {
+        "material": "ROSE_BUSH",
+        "difficulty": 1
+      },
+      {
+        "material": "SEAGRASS",
+        "difficulty": 2
+      },
+      {
+        "material": "SHORT_DRY_GRASS",
+        "difficulty": 4
+      },
+      {
+        "material": "SHORT_GRASS",
+        "difficulty": 2
+      },
+      {
+        "material": "SMALL_DRIPLEAF",
+        "difficulty": 4
+      },
+      {
+        "material": "SPORE_BLOSSOM",
+        "difficulty": 4
+      },
+      {
+        "material": "SUGAR",
+        "difficulty": 1
+      },
+      {
+        "material": "SUGAR_CANE",
+        "difficulty": 1
+      },
+      {
+        "material": "SUNFLOWER",
+        "difficulty": 4
+      },
+      {
+        "material": "TALL_DRY_GRASS",
+        "difficulty": 4
+      },
+      {
+        "material": "TALL_GRASS",
+        "difficulty": 4
+      },
+      {
+        "material": "TORCHFLOWER",
+        "difficulty": 4
+      },
+      {
+        "material": "TORCHFLOWER_SEEDS",
+        "difficulty": 4
+      },
+      {
+        "material": "TWISTING_VINES",
+        "difficulty": 4
+      },
+      {
+        "material": "VINE",
+        "difficulty": 4
+      },
+      {
+        "material": "WARPED_FUNGUS",
+        "difficulty": 4
+      },
+      {
+        "material": "WARPED_NYLIUM",
+        "difficulty": 5
+      },
+      {
+        "material": "WARPED_ROOTS",
+        "difficulty": 4
+      },
+      {
+        "material": "WARPED_WART_BLOCK",
+        "difficulty": 4
+      },
+      {
+        "material": "WEEPING_VINES",
+        "difficulty": 4
+      },
+      {
+        "material": "WHEAT",
+        "difficulty": 1
+      },
+      {
+        "material": "WHEAT_SEEDS",
+        "difficulty": 1
+      },
+      {
+        "material": "WHITE_TULIP",
+        "difficulty": 4
+      },
+      {
+        "material": "WILDFLOWERS",
+        "difficulty": 1
+      },
+      {
+        "material": "WITHER_ROSE",
+        "difficulty": 6
+      },
+      {
+        "material": "MOSS_BLOCK",
+        "difficulty": 4
+      },
+      {
+        "material": "PALE_MOSS_BLOCK",
+        "difficulty": 4
+      },
+      {
+        "material": "MOSS_CARPET",
+        "difficulty": 4
+      },
+      {
+        "material": "PALE_MOSS_CARPET",
+        "difficulty": 4
+      },
+      {
+        "material": "GLOW_LICHEN",
+        "difficulty": 2
+      }
+    ]
+  },
+  {
+    "group": "MUSHROOMS",
+    "description": "All types of mushrooms and mushroom blocks.",
+    "values": [
+      {
+        "material": "BROWN_MUSHROOM",
+        "difficulty": 1
+      },
+      {
+        "material": "BROWN_MUSHROOM_BLOCK",
+        "difficulty": 5
+      },
+      {
+        "material": "MUSHROOM_STEM",
+        "difficulty": 5
+      },
+      {
+        "material": "RED_MUSHROOM",
+        "difficulty": 1
+      },
+      {
+        "material": "RED_MUSHROOM_BLOCK",
+        "difficulty": 5
+      }
+    ]
+  },
+  {
+    "group": "EGGS",
+    "description": "All types of eggs.",
+    "values": [
+      {
+        "material": "BLUE_EGG",
+        "difficulty": 1
+      },
+      {
+        "material": "BROWN_EGG",
+        "difficulty": 1
+      },
+      {
+        "material": "DRAGON_EGG",
+        "difficulty": 6
+      },
+      {
+        "material": "EGG",
+        "difficulty": 1
+      },
+      {
+        "material": "SNIFFER_EGG",
+        "difficulty": 4
+      },
+      {
+        "material": "TURTLE_EGG",
+        "difficulty": 5
+      }
+    ]
+  },
+  {
+    "group": "CORALS",
+    "description": "Underwater blocks that come in various shapes and colors, including dead variants.",
+    "values": [
+      {
+        "material": "BRAIN_CORAL",
+        "difficulty": 5
+      },
+      {
+        "material": "BRAIN_CORAL_BLOCK",
+        "difficulty": 5
+      },
+      {
+        "material": "BRAIN_CORAL_FAN",
+        "difficulty": 5
+      },
+      {
+        "material": "BUBBLE_CORAL",
+        "difficulty": 5
+      },
+      {
+        "material": "BUBBLE_CORAL_BLOCK",
+        "difficulty": 5
+      },
+      {
+        "material": "BUBBLE_CORAL_FAN",
+        "difficulty": 5
+      },
+      {
+        "material": "DEAD_BRAIN_CORAL",
+        "difficulty": 5
+      },
+      {
+        "material": "DEAD_BRAIN_CORAL_BLOCK",
+        "difficulty": 4
+      },
+      {
+        "material": "DEAD_BRAIN_CORAL_FAN",
+        "difficulty": 5
+      },
+      {
+        "material": "DEAD_BUBBLE_CORAL",
+        "difficulty": 5
+      },
+      {
+        "material": "DEAD_BUBBLE_CORAL_BLOCK",
+        "difficulty": 4
+      },
+      {
+        "material": "DEAD_BUBBLE_CORAL_FAN",
+        "difficulty": 5
+      },
+      {
+        "material": "DEAD_FIRE_CORAL",
+        "difficulty": 5
+      },
+      {
+        "material": "DEAD_FIRE_CORAL_BLOCK",
+        "difficulty": 4
+      },
+      {
+        "material": "DEAD_FIRE_CORAL_FAN",
+        "difficulty": 5
+      },
+      {
+        "material": "DEAD_HORN_CORAL",
+        "difficulty": 5
+      },
+      {
+        "material": "DEAD_HORN_CORAL_BLOCK",
+        "difficulty": 4
+      },
+      {
+        "material": "DEAD_HORN_CORAL_FAN",
+        "difficulty": 5
+      },
+      {
+        "material": "DEAD_TUBE_CORAL",
+        "difficulty": 5
+      },
+      {
+        "material": "DEAD_TUBE_CORAL_BLOCK",
+        "difficulty": 4
+      },
+      {
+        "material": "DEAD_TUBE_CORAL_FAN",
+        "difficulty": 5
+      },
+      {
+        "material": "FIRE_CORAL",
+        "difficulty": 5
+      },
+      {
+        "material": "FIRE_CORAL_BLOCK",
+        "difficulty": 5
+      },
+      {
+        "material": "FIRE_CORAL_FAN",
+        "difficulty": 5
+      },
+      {
+        "material": "HORN_CORAL",
+        "difficulty": 5
+      },
+      {
+        "material": "HORN_CORAL_BLOCK",
+        "difficulty": 5
+      },
+      {
+        "material": "HORN_CORAL_FAN",
+        "difficulty": 5
+      },
+      {
+        "material": "TUBE_CORAL",
+        "difficulty": 5
+      },
+      {
+        "material": "TUBE_CORAL_BLOCK",
+        "difficulty": 5
+      },
+      {
+        "material": "TUBE_CORAL_FAN",
+        "difficulty": 5
+      }
+    ]
+  },
+  {
+    "group": "FROGLIGHTS",
+    "description": "Light-emitting blocks dropped by frogs.",
+    "values": [
+      {
+        "material": "OCHRE_FROGLIGHT",
+        "difficulty": 4
+      },
+      {
+        "material": "PEARLESCENT_FROGLIGHT",
+        "difficulty": 4
+      },
+      {
+        "material": "VERDANT_FROGLIGHT",
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "group": "HEADS",
+    "description": "Decorative mob and player heads that can be worn.",
+    "values": [
+      {
+        "material": "CREEPER_HEAD",
+        "difficulty": 6
+      },
+      {
+        "material": "DRAGON_HEAD",
+        "difficulty": 6
+      },
+      {
+        "material": "PIGLIN_HEAD",
+        "difficulty": 6
+      },
+      {
+        "material": "SKELETON_SKULL",
+        "difficulty": 6
+      },
+      {
+        "material": "WITHER_SKELETON_SKULL",
+        "difficulty": 6
+      },
+      {
+        "material": "ZOMBIE_HEAD",
+        "difficulty": 6
+      }
+    ]
+  },
+  {
+    "group": "HARNESSES",
+    "description": "Wearable items for taming and riding certain mobs. Note: Not in vanilla Minecraft.",
+    "values": [
+      {
+        "material": "BLACK_HARNESS",
+        "difficulty": 2
+      },
+      {
+        "material": "BLUE_HARNESS",
+        "difficulty": 2
+      },
+      {
+        "material": "BROWN_HARNESS",
+        "difficulty": 2
+      },
+      {
+        "material": "CYAN_HARNESS",
+        "difficulty": 2
+      },
+      {
+        "material": "GRAY_HARNESS",
+        "difficulty": 2
+      },
+      {
+        "material": "GREEN_HARNESS",
+        "difficulty": 2
+      },
+      {
+        "material": "LIGHT_BLUE_HARNESS",
+        "difficulty": 2
+      },
+      {
+        "material": "LIGHT_GRAY_HARNESS",
+        "difficulty": 2
+      },
+      {
+        "material": "LIME_HARNESS",
+        "difficulty": 2
+      },
+      {
+        "material": "MAGENTA_HARNESS",
+        "difficulty": 2
+      },
+      {
+        "material": "ORANGE_HARNESS",
+        "difficulty": 2
+      },
+      {
+        "material": "PINK_HARNESS",
+        "difficulty": 2
+      },
+      {
+        "material": "PURPLE_HARNESS",
+        "difficulty": 2
+      },
+      {
+        "material": "RED_HARNESS",
+        "difficulty": 2
+      },
+      {
+        "material": "WHITE_HARNESS",
+        "difficulty": 2
+      },
+      {
+        "material": "YELLOW_HARNESS",
+        "difficulty": 2
+      }
+    ]
+  },
+  {
+    "group": "BUNDLES",
+    "description": "Storage items that can hold a variety of other items. Note: Not in vanilla Minecraft.",
+    "values": [
+      {
+        "material": "BLACK_BUNDLE",
+        "difficulty": 2
+      },
+      {
+        "material": "BLUE_BUNDLE",
+        "difficulty": 2
+      },
+      {
+        "material": "BROWN_BUNDLE",
+        "difficulty": 2
+      },
+      {
+        "material": "BUNDLE",
+        "difficulty": 2
+      },
+      {
+        "material": "CYAN_BUNDLE",
+        "difficulty": 2
+      },
+      {
+        "material": "GRAY_BUNDLE",
+        "difficulty": 2
+      },
+      {
+        "material": "GREEN_BUNDLE",
+        "difficulty": 2
+      },
+      {
+        "material": "LIGHT_BLUE_BUNDLE",
+        "difficulty": 2
+      },
+      {
+        "material": "LIGHT_GRAY_BUNDLE",
+        "difficulty": 2
+      },
+      {
+        "material": "LIME_BUNDLE",
+        "difficulty": 2
+      },
+      {
+        "material": "MAGENTA_BUNDLE",
+        "difficulty": 2
+      },
+      {
+        "material": "ORANGE_BUNDLE",
+        "difficulty": 2
+      },
+      {
+        "material": "PINK_BUNDLE",
+        "difficulty": 2
+      },
+      {
+        "material": "PURPLE_BUNDLE",
+        "difficulty": 2
+      },
+      {
+        "material": "RED_BUNDLE",
+        "difficulty": 2
+      },
+      {
+        "material": "WHITE_BUNDLE",
+        "difficulty": 2
+      },
+      {
+        "material": "YELLOW_BUNDLE",
+        "difficulty": 2
+      }
+    ]
+  },
+  {
+    "group": "OTHER",
+    "description": "Miscellaneous items, functional blocks, and other materials that do not fit into other categories.",
+    "values": [
+      {
+        "material": "ANVIL",
+        "difficulty": 3
+      },
+      {
+        "material": "ARMOR_STAND",
+        "difficulty": 2
+      },
+      {
+        "material": "ARROW",
+        "difficulty": 1
+      },
+      {
+        "material": "AXOLOTL_BUCKET",
+        "difficulty": 4
+      },
+      {
+        "material": "BARREL",
+        "difficulty": 1
+      },
+      {
+        "material": "BASALT",
+        "difficulty": 4
+      },
+      {
+        "material": "BEACON",
+        "difficulty": 6
+      },
+      {
+        "material": "BEE_NEST",
+        "difficulty": 5
+      },
+      {
+        "material": "BEEHIVE",
+        "difficulty": 3
+      },
+      {
+        "material": "BELL",
+        "difficulty": 3
+      },
+      {
+        "material": "BLAST_FURNACE",
+        "difficulty": 2
+      },
+      {
+        "material": "BLAZE_POWDER",
+        "difficulty": 4
+      },
+      {
+        "material": "BLAZE_ROD",
+        "difficulty": 4
+      },
+      {
+        "material": "BLUE_ICE",
+        "difficulty": 5
+      },
+      {
+        "material": "BONE",
+        "difficulty": 1
+      },
+      {
+        "material": "BONE_BLOCK",
+        "difficulty": 2
+      },
+      {
+        "material": "BONE_MEAL",
+        "difficulty": 1
+      },
+      {
+        "material": "BOOK",
+        "difficulty": 2
+      },
+      {
+        "material": "BOOKSHELF",
+        "difficulty": 2
+      },
+      {
+        "material": "BOWL",
+        "difficulty": 1
+      },
+      {
+        "material": "BREEZE_ROD",
+        "difficulty": 4
+      },
+      {
+        "material": "BREWING_STAND",
+        "difficulty": 4
+      },
+      {
+        "material": "BUCKET",
+        "difficulty": 2
+      },
+      {
+        "material": "CALCITE",
+        "difficulty": 4
+      },
+      {
+        "material": "CALIBRATED_SCULK_SENSOR",
+        "difficulty": 6
+      },
+      {
+        "material": "CAMPFIRE",
+        "difficulty": 1
+      },
+      {
+        "material": "CARTOGRAPHY_TABLE",
+        "difficulty": 2
+      },
+      {
+        "material": "CAULDRON",
+        "difficulty": 2
+      },
+      {
+        "material": "CHAIN",
+        "difficulty": 2
+      },
+      {
+        "material": "CHARCOAL",
+        "difficulty": 1
+      },
+      {
+        "material": "CHEST",
+        "difficulty": 1
+      },
+      {
+        "material": "CHIPPED_ANVIL",
+        "difficulty": 3
+      },
+      {
+        "material": "CHISELED_BOOKSHELF",
+        "difficulty": 2
+      },
+      {
+        "material": "CLOCK",
+        "difficulty": 3
+      },
+      {
+        "material": "COARSE_DIRT",
+        "difficulty": 1
+      },
+      {
+        "material": "COBWEB",
+        "difficulty": 3
+      },
+      {
+        "material": "COD_BUCKET",
+        "difficulty": 2
+      },
+      {
+        "material": "COMPARATOR",
+        "difficulty": 3
+      },
+      {
+        "material": "COMPASS",
+        "difficulty": 2
+      },
+      {
+        "material": "COMPOSTER",
+        "difficulty": 1
+      },
+      {
+        "material": "CONDUIT",
+        "difficulty": 4
+      },
+      {
+        "material": "CRAFTER",
+        "difficulty": 3
+      },
+      {
+        "material": "CRAFTING_TABLE",
+        "difficulty": 1
+      },
+      {
+        "material": "CREAKING_HEART",
+        "difficulty": 5
+      },
+      {
+        "material": "CRYING_OBSIDIAN",
+        "difficulty": 4
+      },
+      {
+        "material": "DAMAGED_ANVIL",
+        "difficulty": 3
+      },
+      {
+        "material": "DAYLIGHT_DETECTOR",
+        "difficulty": 3
+      },
+      {
+        "material": "DECORATED_POT",
+        "difficulty": 2
+      },
+      {
+        "material": "DIRT",
+        "difficulty": 1
+      },
+      {
+        "material": "DISPENSER",
+        "difficulty": 3
+      },
+      {
+        "material": "DRAGON_BREATH",
+        "difficulty": 5
+      },
+      {
+        "material": "DRIED_GHAST",
+        "difficulty": 4
+      },
+      {
+        "material": "DRIED_KELP_BLOCK",
+        "difficulty": 2
+      },
+      {
+        "material": "DRIPSTONE_BLOCK",
+        "difficulty": 4
+      },
+      {
+        "material": "DROPPER",
+        "difficulty": 3
+      },
+      {
+        "material": "ECHO_SHARD",
+        "difficulty": 6
+      },
+      {
+        "material": "ENCHANTED_BOOK",
+        "difficulty": 3
+      },
+      {
+        "material": "ENCHANTING_TABLE",
+        "difficulty": 3
+      },
+      {
+        "material": "END_CRYSTAL",
+        "difficulty": 4
+      },
+      {
+        "material": "ENDER_CHEST",
+        "difficulty": 5
+      },
+      {
+        "material": "ENDER_EYE",
+        "difficulty": 4
+      },
+      {
+        "material": "ENDER_PEARL",
+        "difficulty": 4
+      },
+      {
+        "material": "EXPERIENCE_BOTTLE",
+        "difficulty": 4
+      },
+      {
+        "material": "FEATHER",
+        "difficulty": 1
+      },
+      {
+        "material": "FERMENTED_SPIDER_EYE",
+        "difficulty": 2
+      },
+      {
+        "material": "FILLED_MAP",
+        "difficulty": 3
+      },
+      {
+        "material": "FIRE_CHARGE",
+        "difficulty": 4
+      },
+      {
+        "material": "FIREWORK_ROCKET",
+        "difficulty": 2
+      },
+      {
+        "material": "FIREWORK_STAR",
+        "difficulty": 3
+      },
+      {
+        "material": "FLETCHING_TABLE",
+        "difficulty": 2
+      },
+      {
+        "material": "FLINT",
+        "difficulty": 1
+      },
+      {
+        "material": "FLOWER_POT",
+        "difficulty": 2
+      },
+      {
+        "material": "FURNACE",
+        "difficulty": 1
+      },
+      {
+        "material": "GHAST_TEAR",
+        "difficulty": 4
+      },
+      {
+        "material": "GLASS",
+        "difficulty": 1
+      },
+      {
+        "material": "GLASS_BOTTLE",
+        "difficulty": 2
+      },
+      {
+        "material": "GLASS_PANE",
+        "difficulty": 2
+      },
+      {
+        "material": "GLOW_INK_SAC",
+        "difficulty": 3
+      },
+      {
+        "material": "GLOW_ITEM_FRAME",
+        "difficulty": 3
+      },
+      {
+        "material": "GLOWSTONE",
+        "difficulty": 3
+      },
+      {
+        "material": "GLOWSTONE_DUST",
+        "difficulty": 3
+      },
+      {
+        "material": "GOAT_HORN",
+        "difficulty": 4
+      },
+      {
+        "material": "GRASS_BLOCK",
+        "difficulty": 5
+      },
+      {
+        "material": "GRAVEL",
+        "difficulty": 1
+      },
+      {
+        "material": "GRINDSTONE",
+        "difficulty": 2
+      },
+      {
+        "material": "GUNPOWDER",
+        "difficulty": 3
+      },
+      {
+        "material": "HAY_BLOCK",
+        "difficulty": 1
+      },
+      {
+        "material": "HEART_OF_THE_SEA",
+        "difficulty": 4
+      },
+      {
+        "material": "HEAVY_CORE",
+        "difficulty": 6
+      },
+      {
+        "material": "HEAVY_WEIGHTED_PRESSURE_PLATE",
+        "difficulty": 2
+      },
+      {
+        "material": "HONEY_BLOCK",
+        "difficulty": 3
+      },
+      {
+        "material": "HONEYCOMB",
+        "difficulty": 3
+      },
+      {
+        "material": "HONEYCOMB_BLOCK",
+        "difficulty": 3
+      },
+      {
+        "material": "HOPPER",
+        "difficulty": 3
+      },
+      {
+        "material": "ICE",
+        "difficulty": 5
+      },
+      {
+        "material": "INK_SAC",
+        "difficulty": 1
+      },
+      {
+        "material": "IRON_BARS",
+        "difficulty": 2
+      },
+      {
+        "material": "IRON_DOOR",
+        "difficulty": 2
+      },
+      {
+        "material": "IRON_TRAPDOOR",
+        "difficulty": 3
+      },
+      {
+        "material": "ITEM_FRAME",
+        "difficulty": 2
+      },
+      {
+        "material": "JACK_O_LANTERN",
+        "difficulty": 2
+      },
+      {
+        "material": "JUKEBOX",
+        "difficulty": 3
+      },
+      {
+        "material": "LADDER",
+        "difficulty": 1
+      },
+      {
+        "material": "LANTERN",
+        "difficulty": 2
+      },
+      {
+        "material": "LAVA_BUCKET",
+        "difficulty": 3
+      },
+      {
+        "material": "LEAD",
+        "difficulty": 3
+      },
+      {
+        "material": "LEATHER",
+        "difficulty": 1
+      },
+      {
+        "material": "LECTERN",
+        "difficulty": 2
+      },
+      {
+        "material": "LEVER",
+        "difficulty": 1
+      },
+      {
+        "material": "LIGHT_WEIGHTED_PRESSURE_PLATE",
+        "difficulty": 3
+      },
+      {
+        "material": "LIGHTNING_ROD",
+        "difficulty": 2
+      },
+      {
+        "material": "LINGERING_POTION",
+        "difficulty": 5
+      },
+      {
+        "material": "LODESTONE",
+        "difficulty": 4
+      },
+      {
+        "material": "LOOM",
+        "difficulty": 1
+      },
+      {
+        "material": "MAGMA_BLOCK",
+        "difficulty": 3
+      },
+      {
+        "material": "MAGMA_CREAM",
+        "difficulty": 4
+      },
+      {
+        "material": "MAP",
+        "difficulty": 3
+      },
+      {
+        "material": "MILK_BUCKET",
+        "difficulty": 2
+      },
+      {
+        "material": "MYCELIUM",
+        "difficulty": 5
+      },
+      {
+        "material": "NAME_TAG",
+        "difficulty": 3
+      },
+      {
+        "material": "NAUTILUS_SHELL",
+        "difficulty": 3
+      },
+      {
+        "material": "NETHER_STAR",
+        "difficulty": 6
+      },
+      {
+        "material": "NETHERRACK",
+        "difficulty": 3
+      },
+      {
+        "material": "NOTE_BLOCK",
+        "difficulty": 3
+      },
+      {
+        "material": "OBSERVER",
+        "difficulty": 3
+      },
+      {
+        "material": "OBSIDIAN",
+        "difficulty": 3
+      },
+      {
+        "material": "OMINOUS_BOTTLE",
+        "difficulty": 4
+      },
+      {
+        "material": "OMINOUS_TRIAL_KEY",
+        "difficulty": 4
+      },
+      {
+        "material": "PACKED_ICE",
+        "difficulty": 5
+      },
+      {
+        "material": "PAINTING",
+        "difficulty": 2
+      },
+      {
+        "material": "PAPER",
+        "difficulty": 1
+      },
+      {
+        "material": "PHANTOM_MEMBRANE",
+        "difficulty": 3
+      },
+      {
+        "material": "PISTON",
+        "difficulty": 3
+      },
+      {
+        "material": "PODZOL",
+        "difficulty": 4
+      },
+      {
+        "material": "POINTED_DRIPSTONE",
+        "difficulty": 4
+      },
+      {
+        "material": "POLISHED_BASALT",
+        "difficulty": 3
+      },
+      {
+        "material": "POTION",
+        "difficulty": 4
+      },
+      {
+        "material": "POWDER_SNOW_BUCKET",
+        "difficulty": 4
+      },
+      {
+        "material": "PUFFERFISH_BUCKET",
+        "difficulty": 4
+      },
+      {
+        "material": "RABBIT_FOOT",
+        "difficulty": 4
+      },
+      {
+        "material": "RABBIT_HIDE",
+        "difficulty": 2
+      },
+      {
+        "material": "RECOVERY_COMPASS",
+        "difficulty": 6
+      },
+      {
+        "material": "REDSTONE_LAMP",
+        "difficulty": 3
+      },
+      {
+        "material": "REDSTONE_TORCH",
+        "difficulty": 3
+      },
+      {
+        "material": "REPEATER",
+        "difficulty": 3
+      },
+      {
+        "material": "RESPAWN_ANCHOR",
+        "difficulty": 4
+      },
+      {
+        "material": "SADDLE",
+        "difficulty": 3
+      },
+      {
+        "material": "SALMON_BUCKET",
+        "difficulty": 2
+      },
+      {
+        "material": "SCAFFOLDING",
+        "difficulty": 4
+      },
+      {
+        "material": "SCULK",
+        "difficulty": 5
+      },
+      {
+        "material": "SCULK_CATALYST",
+        "difficulty": 5
+      },
+      {
+        "material": "SCULK_SENSOR",
+        "difficulty": 5
+      },
+      {
+        "material": "SCULK_SHRIEKER",
+        "difficulty": 5
+      },
+      {
+        "material": "SCULK_VEIN",
+        "difficulty": 5
+      },
+      {
+        "material": "SEA_PICKLE",
+        "difficulty": 4
+      },
+      {
+        "material": "SHROOMLIGHT",
+        "difficulty": 4
+      },
+      {
+        "material": "SHULKER_SHELL",
+        "difficulty": 6
+      },
+      {
+        "material": "SLIME_BALL",
+        "difficulty": 4
+      },
+      {
+        "material": "SLIME_BLOCK",
+        "difficulty": 4
+      },
+      {
+        "material": "SMITHING_TABLE",
+        "difficulty": 2
+      },
+      {
+        "material": "SMOKER",
+        "difficulty": 2
+      },
+      {
+        "material": "SMOOTH_BASALT",
+        "difficulty": 3
+      },
+      {
+        "material": "SNOW",
+        "difficulty": 5
+      },
+      {
+        "material": "SNOW_BLOCK",
+        "difficulty": 4
+      },
+      {
+        "material": "SNOWBALL",
+        "difficulty": 1
+      },
+      {
+        "material": "SOUL_CAMPFIRE",
+        "difficulty": 3
+      },
+      {
+        "material": "SOUL_LANTERN",
+        "difficulty": 3
+      },
+      {
+        "material": "SOUL_SAND",
+        "difficulty": 4
+      },
+      {
+        "material": "SOUL_SOIL",
+        "difficulty": 4
+      },
+      {
+        "material": "SOUL_TORCH",
+        "difficulty": 3
+      },
+      {
+        "material": "SPECTRAL_ARROW",
+        "difficulty": 3
+      },
+      {
+        "material": "SPLASH_POTION",
+        "difficulty": 4
+      },
+      {
+        "material": "SPONGE",
+        "difficulty": 4
+      },
+      {
+        "material": "STICK",
+        "difficulty": 1
+      },
+      {
+        "material": "STICKY_PISTON",
+        "difficulty": 4
+      },
+      {
+        "material": "STONECUTTER",
+        "difficulty": 2
+      },
+      {
+        "material": "STRING",
+        "difficulty": 1
+      },
+      {
+        "material": "TADPOLE_BUCKET",
+        "difficulty": 4
+      },
+      {
+        "material": "TARGET",
+        "difficulty": 3
+      },
+      {
+        "material": "TINTED_GLASS",
+        "difficulty": 3
+      },
+      {
+        "material": "TIPPED_ARROW",
+        "difficulty": 5
+      },
+      {
+        "material": "TNT",
+        "difficulty": 3
+      },
+      {
+        "material": "TORCH",
+        "difficulty": 1
+      },
+      {
+        "material": "TOTEM_OF_UNDYING",
+        "difficulty": 6
+      },
+      {
+        "material": "TRAPPED_CHEST",
+        "difficulty": 2
+      },
+      {
+        "material": "TRIAL_KEY",
+        "difficulty": 4
+      },
+      {
+        "material": "TRIPWIRE_HOOK",
+        "difficulty": 2
+      },
+      {
+        "material": "TROPICAL_FISH_BUCKET",
+        "difficulty": 4
+      },
+      {
+        "material": "WATER_BUCKET",
+        "difficulty": 1
+      },
+      {
+        "material": "WET_SPONGE",
+        "difficulty": 4
+      },
+      {
+        "material": "WIND_CHARGE",
+        "difficulty": 4
+      },
+      {
+        "material": "WRITABLE_BOOK",
+        "difficulty": 2
+      },
+      {
+        "material": "WRITTEN_BOOK",
+        "difficulty": 2
+      }
+    ]
+  }
+]

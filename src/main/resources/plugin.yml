@@ -1,0 +1,32 @@
+name: SequencedForceItemBattle
+version: '0.1.0'
+main: me.timwastaken.sequencedfib.SequencedForceItemBattle
+api-version: '1.21'
+depend: [IntertoryAPI]
+commands:
+  skip:
+    description: Skips the current objective for a player
+    usage: skip
+    permission: sfib.skip
+  start:
+    description: Starts a new game
+    usage: start
+    permission: sfib.start
+  backpack:
+    description: Opens a player's backpack
+    usage: backpack
+    aliases:
+      - bp
+  overview:
+    description: Displays an overview of the current game state
+    usage: overview
+    aliases:
+      - ov
+  pause:
+    description: Toggles the paused state of the game
+    usage: pause
+  sequence:
+    description: Prints the discovered item sequence
+    usage: sequence
+    aliases:
+      - seq
