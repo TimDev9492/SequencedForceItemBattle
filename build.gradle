@@ -3,7 +3,7 @@ import org.yaml.snakeyaml.Yaml
 // use snakeyaml in the build step to extract values from `plugin.yml`
 buildscript {
     dependencies {
-        classpath("org.yaml:snakeyaml:2.2")
+        classpath("org.yaml:snakeyaml:$snakeyaml_version")
     }
 }
 
@@ -12,12 +12,11 @@ plugins {
     id 'com.gradleup.shadow' version "$gradleup_shadow_version"
 }
 
-def plugin = new Yaml().load(new File("src/main/resources/plugin.yml").newInputStream())
+def pluginYml = new Yaml().load(new File('src/main/resources/plugin.yml').newInputStream())
+def jarFilename = String.format('%s-%s+%s.jar', pluginYml.name, pluginYml.version, pluginYml['compiled-version'])
 
-group = 'me.timwastaken'
-version = plugin.version
-
-def jarFile = String.format("%s-%s+%s.jar", plugin.name, version, plugin["api-version"])
+group = 'me.author'
+version = pluginYml.version
 
 repositories {
     mavenCentral()
@@ -33,9 +32,9 @@ repositories {
 }
 
 dependencies {
-    compileOnly("org.spigotmc:spigot-api:1.21.11-R0.1-SNAPSHOT")
-    implementation("com.fasterxml.jackson.core:jackson-databind:2.19.1")
-    implementation("com.github.TimDev9492:IntertoryAPI:1.21")
+    compileOnly("org.spigotmc:spigot-api:${pluginYml['compiled-version']}-R0.1-SNAPSHOT")
+    implementation("com.fasterxml.jackson.core:jackson-databind:$jackson_databind_version")
+    implementation("com.github.TimDev9492:IntertoryAPI:$intertoryapi_version")
 }
 
 def targetJavaVersion = 21
@@ -48,13 +47,16 @@ java {
     }
 }
 
+// Set the output jar file name accordingly
 tasks.jar {
-    archiveFileName.set("$jarFile")
-    enabled = false
+    archiveFileName.set(jarFilename)
+    // SHADING: uncomment this line
+     enabled = false
 }
 
+// SHADING: uncomment this section
 tasks.shadowJar {
-    archiveFileName.set(jarFile)
+    archiveFileName.set(jarFilename)
 
     [
             'com.fasterxml.jackson'
@@ -69,18 +71,30 @@ tasks.withType(JavaCompile).configureEach {
     }
 }
 
-task deploy(type: Exec) {
-    commandLine = [ "./deploy.sh", "build/libs/$jarFile" ]
+tasks.register('deploy', Exec) {
+    commandLine = ["./deploy.sh", "build/libs/$jarFilename"]
 }
 
-task cleanBuildDeploy(type: GradleBuild) {
+tasks.register('cleanBuildDeploy', GradleBuild) {
     tasks = ['clean', 'build', 'deploy']
 }
 
-task printMetadata() {
-    doLast {
-        println "filename=$jarFile"
-        println "version=${plugin["api-version"]}"
+tasks.register('metadata') {
+    doLast{
+        def prefix = "plugin"
+
+        println "${prefix}_filename=$jarFilename"
+
+        if (pluginYml.expose != null && pluginYml.expose instanceof List) {
+            pluginYml.expose.each { key ->
+                def value = pluginYml.get(key)
+                if (value != null) {
+                    def safeKey = key
+                            .replaceAll(/[^a-zA-Z0-9_]/, "_")   // replace invalid chars
+                    println "${prefix}_${safeKey}=${value}"
+                }
+            }
+        }
     }
 }
 

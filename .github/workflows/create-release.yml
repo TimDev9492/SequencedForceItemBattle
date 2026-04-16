@@ -18,9 +18,7 @@ jobs:
           java-version: 21
       - name: Set variables
         run: |
-          metadata=$(./gradlew printMetadata -q)
-          echo "plugin_jar=$(echo "$metadata" | grep 'filename=' | cut -d'=' -f2)" >> $GITHUB_ENV
-          echo "plugin_version=$(echo "$metadata" | grep 'version=' | cut -d'=' -f2)" >> $GITHUB_ENV
+          ./gradlew metadata -q >> $GITHUB_ENV
       - name: Build plugin
         run: ./gradlew build
       - name: Create github release
@@ -29,4 +27,4 @@ jobs:
         uses: softprops/action-gh-release@v2.0.5
         with:
           tag_name: ${{ env.plugin_version }}
-          files: build/libs/${{ env.plugin_jar }}
+          files: build/libs/${{ env.plugin_filename }}
