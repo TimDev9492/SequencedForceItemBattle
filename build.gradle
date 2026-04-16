@@ -9,6 +9,7 @@ buildscript {
 
 plugins {
     id 'java'
+    id 'com.gradleup.shadow' version "$gradleup_shadow_version"
 }
 
 def plugin = new Yaml().load(new File("src/main/resources/plugin.yml").newInputStream())
@@ -32,7 +33,7 @@ repositories {
 }
 
 dependencies {
-    compileOnly("org.spigotmc:spigot-api:1.21.1-R0.1-SNAPSHOT")
+    compileOnly("org.spigotmc:spigot-api:1.21.11-R0.1-SNAPSHOT")
     implementation("com.fasterxml.jackson.core:jackson-databind:2.19.1")
     implementation("com.github.TimDev9492:IntertoryAPI:1.21")
 }
@@ -49,6 +50,15 @@ java {
 
 tasks.jar {
     archiveFileName.set("$jarFile")
+    enabled = false
+}
+
+tasks.shadowJar {
+    archiveFileName.set(jarFile)
+
+    [
+            'com.fasterxml.jackson'
+    ].each { pkg -> relocate(pkg, "${group}.lib.$pkg") }
 }
 
 tasks.withType(JavaCompile).configureEach {
