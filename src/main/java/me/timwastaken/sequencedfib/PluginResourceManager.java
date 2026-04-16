@@ -7,6 +7,7 @@ import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;
 import org.bukkit.OfflinePlayer;
 import org.bukkit.command.CommandExecutor;
+import org.bukkit.command.TabCompleter;
 import org.bukkit.event.HandlerList;
 import org.bukkit.event.Listener;
 import org.bukkit.inventory.ItemStack;
@@ -46,6 +47,10 @@ public class PluginResourceManager {
 
     public void registerCommand(String commandName, CommandExecutor executor) {
         Optional.ofNullable(this.plugin.getCommand(commandName)).ifPresent(command -> command.setExecutor(executor));
+    }
+
+    public void registerTabCompletions(String commandName, TabCompleter completer) {
+        Optional.ofNullable(this.plugin.getCommand(commandName)).ifPresent(command -> command.setTabCompleter(completer));
     }
 
     public ItemStack getPlayerHeadCached(UUID uuid, String displayName) {

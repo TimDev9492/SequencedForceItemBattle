@@ -44,3 +44,6 @@ commands:
     usage: sequence
     aliases:
       - seq
+  exclude:
+    description: Adds a material to the exclude config
+    usage: exclude <material>

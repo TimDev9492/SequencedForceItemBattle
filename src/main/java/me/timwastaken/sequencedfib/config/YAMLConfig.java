@@ -16,18 +16,26 @@ public class YAMLConfig implements ConfigValueProvider {
     private final YamlConfiguration yamlConfig;
     private File configFile = null;
 
-    public YAMLConfig(Plugin plugin, String configName, boolean overwriteWithDefault) throws YamlException {
+    public YAMLConfig(Plugin plugin, String configName, boolean overwriteWithDefault) throws YamlException, IOException {
         this.configName = configName;
         yamlConfig = this.createYamlConfig(plugin, overwriteWithDefault);
     }
 
-    private YamlConfiguration createYamlConfig(Plugin plugin, boolean overwrite) throws YamlException {
+    private YamlConfiguration createYamlConfig(Plugin plugin, boolean overwrite) throws YamlException, IOException {
         File configFile = new File(plugin.getDataFolder(), this.configName);
         if (!configFile.exists()) {
-            if (!configFile.getParentFile().mkdirs()) {
+            File parentDir = configFile.getParentFile();
+            if (parentDir == null) throw new YamlException("Cannot create config file without a parent directory!");
+            if (!parentDir.exists() && !parentDir.mkdirs()) {
                 throw new YamlException("Failed to create config directory!");
             }
-            plugin.saveResource(configName, overwrite);
+            if(plugin.getResource(configName) != null)
+                plugin.saveResource(configName, overwrite);
+            else {
+                boolean created = configFile.createNewFile();
+                if (!created) throw new YamlException("Failed to create config file!");
+            }
+
         }
         this.configFile = configFile;
         YamlConfiguration config = YamlConfiguration.loadConfiguration(configFile);

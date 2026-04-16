@@ -6,6 +6,7 @@ import me.timwastaken.sequencedfib.utils.OptionalOnlinePlayer;
 import org.bukkit.ChatColor;
 import org.bukkit.Material;
 import org.bukkit.entity.Player;
+import org.jspecify.annotations.NonNull;
 
 import java.time.Duration;
 import java.util.ArrayList;
@@ -332,5 +333,26 @@ public class SfibMessages {
             ));
         }
         return lines;
+    }
+
+    public static String materialDoesNotExist(@NonNull String materialName) {
+        return String.format(
+                "%s%sMaterial %s%s%s does not exist.",
+                PREFIX,
+                ChatColor.RED,
+                ChatColor.GOLD,
+                materialName,
+                ChatColor.RED
+        );
+    }
+
+    public static String materialExcluded(@NonNull String materialName) {
+        return String.format(
+                "%s%sSuccessfully excluded material %s%s",
+                PREFIX,
+                ChatColor.GREEN,
+                ChatColor.DARK_GREEN,
+                materialName
+        );
     }
 }
