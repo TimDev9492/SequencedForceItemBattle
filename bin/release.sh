@@ -109,6 +109,11 @@ prompt_default_value PLUGIN_YML_API_VERSION "Enter the minimum minecraft version
 
 BRANCH_NAME="release/${PROJECT_VERSION}+${SPIGOT_COMPILE_VERSION}"
 
+# bump the version
+set_yml_string "${PLUGIN_YML_FILE}" "version" "${PROJECT_VERSION}"
+git add .
+git commit -m 'chore: bump version'
+
 # switch to new branch
 git checkout -B "${BRANCH_NAME}"
 
