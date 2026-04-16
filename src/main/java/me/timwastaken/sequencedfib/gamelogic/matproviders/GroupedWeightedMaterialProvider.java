@@ -19,12 +19,12 @@ public class GroupedWeightedMaterialProvider extends SfibMaterialProvider {
     private static final Map<Integer, Double> weightLookup;
     static {
         weightLookup = Map.of(
-                1, 0.65d,
-                2, 0.8d,
-                3, 0.8d,
-                4, 0.6d,
-                5, 0.8d,
-                6, 0.4d
+                1, 0.5d,
+                2, 1.0d,
+                3, 1.0d,
+                4, 0.7d,
+                5, 0.5d,
+                6, 0.2d
         );
     }
 
