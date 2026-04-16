@@ -3,6 +3,9 @@ package me.timwastaken.sequencedfib.ui;
 import me.timwastaken.sequencedfib.gamelogic.GameState;
 import me.timwastaken.sequencedfib.gamelogic.SfibGame;
 import me.timwastaken.sequencedfib.utils.OptionalOnlinePlayer;
+import net.md_5.bungee.api.chat.BaseComponent;
+import net.md_5.bungee.api.chat.ClickEvent;
+import net.md_5.bungee.api.chat.ComponentBuilder;
 import org.bukkit.ChatColor;
 import org.bukkit.Material;
 import org.bukkit.entity.Player;
@@ -14,6 +17,10 @@ import java.util.List;
 
 public class SfibMessages {
     private static final String PREFIX = String.format("[%sForceItemBattle%s] ", ChatColor.DARK_AQUA, ChatColor.RESET);
+//    private static final BaseComponent[] PREFIX_COMPONENT = new ComponentBuilder("[")
+//            .append(new ComponentBuilder("ForceItemBattle").color(net.md_5.bungee.api.ChatColor.DARK_AQUA).build())
+//            .append(new ComponentBuilder("]").build())
+//            .create();
 
     public static String materialName(Material mat) {
         String lower = mat.toString().replaceAll("_", " ").toLowerCase();
@@ -81,6 +88,16 @@ public class SfibMessages {
                 ChatColor.GOLD,
                 SfibMessages.materialName(mat)
         );
+    }
+
+    public static BaseComponent[] visitWiki(Material mat) {
+        return new ComponentBuilder("[Open Wiki]")
+                .color(net.md_5.bungee.api.ChatColor.GREEN)
+                .event(new ClickEvent(ClickEvent.Action.OPEN_URL, String.format(
+                        "https://minecraft.wiki/?search=%s",
+                        mat.name()
+                )))
+                .create();
     }
 
     public static String playerCollectedMaterialBroadcastChat(OptionalOnlinePlayer p, Material mat) {
@@ -354,5 +371,9 @@ public class SfibMessages {
                 ChatColor.DARK_GREEN,
                 materialName
         );
+    }
+
+    public static String getCurrentObjective() {
+        return "Obtain the following item:";
     }
 }

@@ -43,6 +43,7 @@ public final class SequencedForceItemBattle extends JavaPlugin {
         this.resourceManager.registerCommand("skip", new SkipCommand());
         this.resourceManager.registerCommand("pause", new PauseCommand());
         this.resourceManager.registerCommand("sequence", new SequenceCommand());
+        this.resourceManager.registerCommand("info", new InfoCommand());
         try {
             ExcludeCommand excludeCommand = new ExcludeCommand(
                     new YAMLConfig(this, "exclude.yml", false)

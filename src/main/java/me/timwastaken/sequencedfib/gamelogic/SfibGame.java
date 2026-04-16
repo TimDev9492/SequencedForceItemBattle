@@ -192,7 +192,10 @@ public class SfibGame implements Listener {
         }
 
         Material newItemTask = this.discoveredMaterialSequence.get(sequenceIndex);
-        player.run(p -> p.sendMessage(SfibMessages.newItemChat(newItemTask)));
+        player.run(p -> {
+            p.sendMessage(SfibMessages.newItemChat(newItemTask));
+            p.spigot().sendMessage(SfibMessages.visitWiki(newItemTask));
+        });
         SfibMessages.sendPlayerTitle(player, SfibMessages.newItemTitle(newItemTask));
         player.run(p -> p.setPlayerListName(SfibMessages.playerListName(player, this)));
     }

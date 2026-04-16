@@ -44,6 +44,9 @@ commands:
     usage: sequence
     aliases:
       - seq
+  info:
+    description: Displays the item you have to obtain next
+    usage: info
   exclude:
     description: Adds a material to the exclude config
     usage: exclude <material>
