@@ -21,8 +21,8 @@ public final class SequencedForceItemBattle extends JavaPlugin {
     private static SequencedForceItemBattle self;
 
     private PluginResourceManager resourceManager;
-    private ConfigValueProvider configValueProvider;
-    private ConfigValueProvider excludeProvider;
+    private static ConfigValueProvider configValueProvider;
+    private static ConfigValueProvider excludeProvider;
 
     @Override
     public void onEnable() {
