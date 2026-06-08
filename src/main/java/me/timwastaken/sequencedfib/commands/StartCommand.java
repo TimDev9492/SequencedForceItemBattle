@@ -10,6 +10,7 @@ import me.timwastaken.sequencedfib.gamelogic.GameState;
 import me.timwastaken.sequencedfib.gamelogic.SfibGame;
 import me.timwastaken.sequencedfib.gamelogic.SfibGameConfig;
 import me.timwastaken.sequencedfib.gamelogic.matproviders.GroupedWeightedMaterialProvider;
+import me.timwastaken.sequencedfib.gamelogic.matproviders.SfibMaterialProvider;
 import me.timwastaken.sequencedfib.ui.SfibMessages;
 import me.timwastaken.sequencedfib.utils.OptionalOnlinePlayer;
 import org.bukkit.Bukkit;
@@ -24,6 +25,12 @@ import java.io.File;
 import java.io.IOException;
 
 public class StartCommand implements CommandExecutor {
+    private final SfibMaterialProvider materialProvider;
+
+    public StartCommand(SfibMaterialProvider materialProvider) {
+        this.materialProvider = materialProvider;
+    }
+
     @Override
     public boolean onCommand(CommandSender sender, Command command, String label, String[] args) {
         if (GameManager.getCurrentGame() != null && GameManager.getCurrentGame().getGameState() != GameState.READY) {
@@ -121,27 +128,17 @@ public class StartCommand implements CommandExecutor {
                                     () -> {
                                         p.closeInventory();
                                         // start the game
-                                        try {
-                                            SfibGame newGame = new SfibGame(
-                                                    Bukkit.getOnlinePlayers().stream().map(OptionalOnlinePlayer::of).toList(),
-                                                    new SfibGameConfig(
-                                                            playTimeSelect.getValue(),
-                                                            numberOfSkipsSelect.getValue(),
-                                                            backpackSpaceSelect.getValue()
-                                                    ),
-                                                    new GroupedWeightedMaterialProvider(new File(
-                                                            SequencedForceItemBattle.getInstance().getDataFolder(),
-                                                            "item_groups.json"
-                                                    ))
-                                            );
-                                            SequencedForceItemBattle.getInstance().getResourceManager().registerEventListener(newGame);
-                                            GameManager.startNewGame(newGame);
-                                        } catch (IOException exception) {
-                                            p.sendMessage(ChatColor.RED + "Failed load item groups!");
-                                            SequencedForceItemBattle.getInstance().getLogger().severe(
-                                                    exception.getMessage()
-                                            );
-                                        }
+                                        SfibGame newGame = new SfibGame(
+                                                Bukkit.getOnlinePlayers().stream().map(OptionalOnlinePlayer::of).toList(),
+                                                new SfibGameConfig(
+                                                        playTimeSelect.getValue(),
+                                                        numberOfSkipsSelect.getValue(),
+                                                        backpackSpaceSelect.getValue()
+                                                ),
+                                                materialProvider
+                                        );
+                                        SequencedForceItemBattle.getInstance().getResourceManager().registerEventListener(newGame);
+                                        GameManager.startNewGame(newGame);
                                         return true;
                                     }
                             ))

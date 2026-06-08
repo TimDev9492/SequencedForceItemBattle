@@ -4,18 +4,26 @@ import me.timwastaken.sequencedfib.commands.*;
 import me.timwastaken.sequencedfib.config.ConfigValueProvider;
 import me.timwastaken.sequencedfib.config.YAMLConfig;
 import me.timwastaken.sequencedfib.exceptions.YamlException;
+import me.timwastaken.sequencedfib.gamelogic.matproviders.FilteredMaterialProvider;
+import me.timwastaken.sequencedfib.gamelogic.matproviders.GroupedWeightedMaterialProvider;
+import me.timwastaken.sequencedfib.gamelogic.matproviders.SfibMaterialProvider;
 import me.timwastaken.sequencedfib.listeners.ItemOffhandSwapListener;
+import org.bukkit.ChatColor;
 import org.bukkit.Material;
 import org.bukkit.plugin.java.JavaPlugin;
 
+import java.io.File;
 import java.io.IOException;
 import java.util.Arrays;
 
 public final class SequencedForceItemBattle extends JavaPlugin {
+    public static final String EXCLUDE_CONFIG_KEY = "material-exclude";
     private static SequencedForceItemBattle self;
 
     private PluginResourceManager resourceManager;
-    private static ConfigValueProvider configValueProvider;
+    private ConfigValueProvider configValueProvider;
+    private ConfigValueProvider excludeProvider;
+    private SfibMaterialProvider materialProvider;
 
     @Override
     public void onEnable() {
@@ -25,6 +33,16 @@ public final class SequencedForceItemBattle extends JavaPlugin {
         this.resourceManager = new PluginResourceManager(this);
         try {
             configValueProvider = new YAMLConfig(this, "sfib-config.yml", true);
+            excludeProvider = new YAMLConfig(this, "exclude.yml", false);
+
+            materialProvider = new FilteredMaterialProvider(
+                    new GroupedWeightedMaterialProvider(new File(
+                            SequencedForceItemBattle.getInstance().getDataFolder(),
+                            "item_groups.json"
+                    )),
+                    material ->
+            )
+
             this.getLogger().info("Successfully loaded config values!");
 
             this.saveResource("item_groups.json", true);
@@ -37,7 +55,24 @@ public final class SequencedForceItemBattle extends JavaPlugin {
 
         this.resourceManager.registerEventListener(new ItemOffhandSwapListener());
 
-        this.resourceManager.registerCommand("start", new StartCommand());
+        try {
+            this.resourceManager.registerCommand("start", new StartCommand(
+                    new FilteredMaterialProvider(
+                            new GroupedWeightedMaterialProvider(new File(
+                                    SequencedForceItemBattle.getInstance().getDataFolder(),
+                                    "item_groups.json"
+                            )),
+                            material -> !excludeProvider.getStringList(EXCLUDE_CONFIG_KEY)
+                                    .contains(material.name())
+                    )
+
+            ));
+        } catch (IOException e) {
+            getLogger().severe(
+                    e.getMessage()
+            );
+            this.getServer().getPluginManager().disablePlugin(this);
+        }
         this.resourceManager.registerCommand("backpack", new BackpackCommand());
         this.resourceManager.registerCommand("overview", new OverviewCommand());
         this.resourceManager.registerCommand("skip", new SkipCommand());

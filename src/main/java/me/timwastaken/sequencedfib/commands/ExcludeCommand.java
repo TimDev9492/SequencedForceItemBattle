@@ -14,15 +14,13 @@ import org.jspecify.annotations.Nullable;
 import java.util.*;
 
 public class ExcludeCommand implements CommandExecutor, TabCompleter {
-    private static final String CONFIG_KEY = "material-exclude";
-
     private final ConfigValueProvider excludeConfig;
     private final Set<Material> excluded;
 
     public ExcludeCommand(ConfigValueProvider config) {
         this.excludeConfig = config;
         this.excluded = new HashSet<>();
-        for (String matString : config.getStringList(CONFIG_KEY)) {
+        for (String matString : config.getStringList(SequencedForceItemBattle.EXCLUDE_CONFIG_KEY)) {
             try {
                 Material toExclude = Material.valueOf(matString);
                 excluded.add(toExclude);
@@ -41,7 +39,7 @@ public class ExcludeCommand implements CommandExecutor, TabCompleter {
         try {
             Material arg = Material.valueOf(args[0].toUpperCase());
             excluded.add(arg);
-            boolean saved = excludeConfig.saveObject(CONFIG_KEY, excluded.stream().map(Material::name).toList());
+            boolean saved = excludeConfig.saveObject(SequencedForceItemBattle.EXCLUDE_CONFIG_KEY, excluded.stream().map(Material::name).toList());
             if (!saved) return false;
             excludeConfig.saveConfig();
             sender.sendMessage(SfibMessages.materialExcluded(args[0]));
