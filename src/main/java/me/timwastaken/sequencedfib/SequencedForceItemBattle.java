@@ -23,7 +23,6 @@ public final class SequencedForceItemBattle extends JavaPlugin {
     private PluginResourceManager resourceManager;
     private ConfigValueProvider configValueProvider;
     private ConfigValueProvider excludeProvider;
-    private SfibMaterialProvider materialProvider;
 
     @Override
     public void onEnable() {
@@ -31,6 +30,7 @@ public final class SequencedForceItemBattle extends JavaPlugin {
         this.getLogger().info("Loading Plugin...");
         self = this;
         this.resourceManager = new PluginResourceManager(this);
+        SfibMaterialProvider materialProvider;
         try {
             configValueProvider = new YAMLConfig(this, "sfib-config.yml", true);
             excludeProvider = new YAMLConfig(this, "exclude.yml", false);
@@ -40,8 +40,9 @@ public final class SequencedForceItemBattle extends JavaPlugin {
                             SequencedForceItemBattle.getInstance().getDataFolder(),
                             "item_groups.json"
                     )),
-                    material ->
-            )
+                    material ->!excludeProvider.getStringList(EXCLUDE_CONFIG_KEY)
+                            .contains(material.name())
+            );
 
             this.getLogger().info("Successfully loaded config values!");
 
@@ -55,24 +56,7 @@ public final class SequencedForceItemBattle extends JavaPlugin {
 
         this.resourceManager.registerEventListener(new ItemOffhandSwapListener());
 
-        try {
-            this.resourceManager.registerCommand("start", new StartCommand(
-                    new FilteredMaterialProvider(
-                            new GroupedWeightedMaterialProvider(new File(
-                                    SequencedForceItemBattle.getInstance().getDataFolder(),
-                                    "item_groups.json"
-                            )),
-                            material -> !excludeProvider.getStringList(EXCLUDE_CONFIG_KEY)
-                                    .contains(material.name())
-                    )
-
-            ));
-        } catch (IOException e) {
-            getLogger().severe(
-                    e.getMessage()
-            );
-            this.getServer().getPluginManager().disablePlugin(this);
-        }
+        this.resourceManager.registerCommand("start", new StartCommand(materialProvider));
         this.resourceManager.registerCommand("backpack", new BackpackCommand());
         this.resourceManager.registerCommand("overview", new OverviewCommand());
         this.resourceManager.registerCommand("skip", new SkipCommand());
