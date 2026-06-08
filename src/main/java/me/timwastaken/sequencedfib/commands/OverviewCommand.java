@@ -23,7 +23,11 @@ public class OverviewCommand implements CommandExecutor {
                 p.sendMessage(SfibMessages.gameStateError(GameManager.getCurrentGame().getGameState()));
                 return false;
             }
-            GameOverview overview = new GameOverview(GameManager.getCurrentGame(), OptionalOnlinePlayer.of(p));
+            GameOverview overview = new GameOverview(
+                    GameManager.getCurrentGame(),
+                    OptionalOnlinePlayer.of(p),
+                    GameManager.getCurrentGame().getGameState() != GameState.FINISHED
+            );
             SequencedForceItemBattle.getInstance().getResourceManager().registerEventListener(overview);
             overview.openOverview();
             return true;

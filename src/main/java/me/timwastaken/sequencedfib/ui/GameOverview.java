@@ -14,6 +14,7 @@ import org.bukkit.event.inventory.InventoryClickEvent;
 import org.bukkit.inventory.Inventory;
 import org.bukkit.inventory.ItemStack;
 
+import javax.swing.text.html.Option;
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;
@@ -47,12 +48,18 @@ public class GameOverview implements Listener {
     private int currentPage = 0;
     private final int totalPlayerRows;
     private int verticalScroll = 0;
+    private boolean hideSkips = false;
 
     public GameOverview(SfibGame game, OptionalOnlinePlayer player) {
+        this(game, player, false);
+    }
+
+    public GameOverview(SfibGame game, OptionalOnlinePlayer player, boolean hideSkips) {
         this.game = game;
         this.player = player;
         this.totalPages = (int) Math.ceil((double) game.getMaterialSequence().size() / ITEM_TASKS_PER_PAGE);
         this.totalPlayerRows = game.getParticipants().size();
+        this.hideSkips = hideSkips;
 
         // sort players by score
         playersSortedByScore = new ArrayList<>(game.getParticipants());
@@ -120,7 +127,7 @@ public class GameOverview implements Listener {
                 boolean reached = game.getSequenceIndex(player) - 1 >= sequenceIndex;
                 boolean skipped = game.getSkippedIndexesFor(player).contains(sequenceIndex);
                 if (!reached) continue;
-                if (skipped) {
+                if (skipped && !hideSkips) {
                     inv.setItem(getSlotIndex(x, y), SKIPPED_STACK);
                     continue;
                 }
